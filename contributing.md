@@ -1,60 +1,53 @@
----
-source-git-commit: 34d3ebb312069a5e036bdedfced8375a6b6d7d5b
-workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 100%
+# Contributing
 
----
-# 投稿
+Thanks for choosing to contribute!
 
-感谢您选择投稿！
+The following are a set of guidelines to follow when contributing to this project.
 
-以下是在向本项目投稿时需要遵守的一组指南。
+## Code Of Conduct
 
-## 行为准则
+This project adheres to the Adobe [code of conduct](code-of-conduct.md). By participating,
+you are expected to uphold this code. Please report unacceptable behavior to
+[Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
-此项目遵循 Adobe [行为准则](code-of-conduct.md)。如果参与，
-请遵守本准则。请将不可接受的行为报告给 
-[Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com)。
+## Contributor Guide Documentation
 
-## 投稿人指南文档
+See the [Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
 
-请参阅[投稿人指南](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)。
+## Have A Question?
 
-## 还有疑问？
+Start by filing an issue. The existing committers on this project work to reach
+consensus around project direction and issue solutions within issue threads
+(when appropriate).
 
-请从填写问题开始。此项目上的现有提交人致力于在项目方向上
-达成共识，并在问题帖子中发布解决方案
-（在适用时）。
+## Contributor License Agreement
 
-## 投稿人许可协议
+All third-party contributions to this project must be accompanied by a signed contributor
+license agreement. This gives Adobe permission to redistribute your contributions
+as part of the project. [Sign our CLA](http://opensource.adobe.com/cla.html). You
+only need to submit an Adobe CLA one time, so if you have submitted one previously,
+you are good to go!
 
-此项目的所有第三方投稿人必须随附已签署的投稿人
-许可协议。这将允许 Adobe 在项目中再次分发
-您贡献的内容。[签署我们的 CLA](http://opensource.adobe.com/cla.html). 您
-只需提交一次 Adobe CLA 即可，因此，如果您以前已经提交过，
-则无需再次提交！
+## Code Reviews
 
-## 代码审核
-
-所有提交都应采用提取请求的形式，并且需要由项目提交者
-进行审核。请阅读 [GitHub 的提取请求文档](https://help.github.com/cn/articles/about-pull-requests/)，
-了解有关发送提取请求的更多信息。
+All submissions should come in the form of pull requests and need to be reviewed
+by project committers. Read [GitHub's pull request documentation](https://help.github.com/articles/about-pull-requests/)
+for more information on sending pull requests.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
 submitting a pull request!
 -->
 
-## 从投稿人到提交人
+## From Contributor To Committer
 
-我们喜欢来自社区的投稿！如果您希望从投稿人更进一步
-并成为具有完整写入权限和项目发言权的提交人，您必须
-受邀加入项目。现有提交人采用内部提名
-流程，必须在发布邀请之前达成默认共识
-（不表态即批准）。如果您觉得您符合条件并且希望更深入地参与，
-请随时联系现有提交人以进行讨论。
+We love contributions from our community! If you'd like to go a step beyond contributor
+and become a committer with full write access and a say in the project, you must
+be invited to the project. The existing committers employ an internal nomination
+process that must reach lazy consensus (silence is approval) before invitations
+are issued. If you feel you are qualified and want to get more deeply involved,
+feel free to reach out to existing committers to have a conversation about that.
 
-## 安全问题
+## Security Issues
 
-在此问题跟踪程序上不应报告安全问题，而是应该[向我们的安全专家提交问题](https://helpx.adobe.com/cn/security/alertus.html)
+Security issues shouldn't be reported on this issue tracker. Instead, [file an issue to our security experts](https://helpx.adobe.com/security/alertus.html)
