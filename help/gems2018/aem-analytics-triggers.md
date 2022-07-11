@@ -1,33 +1,27 @@
 ---
-title: Adobe Developer(IO)事件 — Analytics触发器
-description: 结合事件驱动架构和实时客户行为模式识别的强大功能 — 此会议讨论如何通过Adobe Developer(Adobe I/O)事件利用Analytics Triggers的强大功能，对客户行为做出反应并近乎实时地重新定位。
+title: Adobe Developer (IO) events - Analytics Triggers
+description: Combine the power of event-driven architecture and real-time customer behavior pattern recognition - this session discusses how you can harness the power of Analytics Triggers through Adobe Developer (Adobe I/O) Events to react to customer behavior and to re-target in near real-time.
 uuid: 69df8fcb-4713-42a9-a986-a4ad9d4e36c6
 topic-tags: analytics
 discoiquuid: 0982386a-a34c-4401-a6d5-7aeabe7eb50c
 targetaudience: target-audience advanced
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 1%
-
 ---
 
+# Adobe Developer (IO) events - Analytics Triggers{#adobe-i-o-events-analytics-triggers}
 
-# Adobe Developer(IO)事件 — Analytics触发器{#adobe-i-o-events-analytics-triggers}
-
-结合事件驱动架构和实时客户行为模式识别的强大功能 — 本次会议将讨论如何通过Adobe I/O事件来利用Analytics触发器的强大功能，以对客户行为做出反应并近乎实时地重新定位。
+Combine the power of event-driven architecture and real-time customer behavior pattern recognition — this session will discuss how you can harness the power of Analytics Triggers through Adobe I/O Events to react to customer behavior and to re-target in near real-time.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22809/?quality=9)
 
-*2018年6月27日交付*
+*Delivered June 27, 2018*
 
-**呈列方式：**
+**Presented by:**
 
-Sarah Xu，开发人员福音师，Adobe
+Sarah Xu, Developer Evangelist, Adobe
 
-**演示者幻灯片**
+**Presenter slides**
 
-[获取文件](assets/gems+6+27+18+adobe+io+analytics+triggers.pdf)
+[Get File](assets/gems+6+27+18+adobe+io+analytics+triggers.pdf)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
@@ -35,9 +29,8 @@ Sarah Xu，开发人员福音师，Adobe
 
 >[!MORELIKETHIS]
 >
->* [作为Oak索引的AEM](solr-as-an-oak-index-for-aem.md)
->* [使用AEM 6.4解锁功能更强大的资产分析](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
-
+>* [Solr as an Oak index for AEM](solr-as-an-oak-index-for-aem.md)
+>* [Unlocking More Powerful Asset Analytics With AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
 
 <!-- this link is broken: >* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 
 -->

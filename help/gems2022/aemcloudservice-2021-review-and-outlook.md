@@ -1,6 +1,6 @@
 ---
-title: AEMas a Cloud Service- 2021年审查和2022年展望
-description: 观看AEM GEM网络研讨会，以了解2021年AEMas a Cloud Service的回顾。 另外，还可获取2022年预售内容的概述。
+title: AEM as a Cloud Service - 2021 review and 2022 outlook
+description: Watch an AEM GEMs webinar fir a review of AEM as a Cloud Service in 2021. Also get an overview for what's in store for 2022.
 version: Cloud Service
 feature: Release Information
 topic: Content Management
@@ -8,27 +8,20 @@ role: User
 level: Intermediate
 kt: 10055
 thumbnail: 341444.jpeg
-source-git-commit: 92f46eab76b1a89216039d830b1683d259d3db44
-workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
-
 ---
 
+# Adobe Experience Manager as a Cloud Service: 2021 review and 2022 outlook
 
-# Adobe Experience Manager as a Cloud Service:《2021年回顾与2022年展望》
+This AEM GEMs webinar recording will include the following:
 
-此AEM GEM网络研讨会记录将包括以下内容：
-
-在本课程中，我们将首先回顾对2021年Adobe Experience Manager(AEM)as a Cloud Service版所做的主要更改以及一些关键量度。 我们还将讨论2022年计划进行的改革。
+In this session, we will first review the main changes to Adobe Experience Manager (AEM) as a Cloud Service 2021 and some of the key metrics. We will also talk about the upcoming changes planned for 2022.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341444/?quality=12&learn=on)
 
-此网络研讨会于2022年1月25日举行，由产品管理部Director的Bertrand de Coatpont介绍
+This webinar was conducted on January 25th, 2022 and presented by Bertrand de Coatpont, Director of Product Management
 
 >[!MORELIKETHIS]
 >
->* [相应的Adobe Experience Manager用户群组事件页面](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-adobe-experience-manager-as-a-cloud-service-2021-review-and-2022-outlook/)
->* [对应的上下文线程](https://adobe.ly/3rqbSOz)
->* 请在 [Adobe的AEM用户组](https://aem-augs.adobe.com/) 以了解有关即将召开的网络研讨会的通知。
-
+>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-adobe-experience-manager-as-a-cloud-service-2021-review-and-2022-outlook/)
+>* [Corresponding Contextual Thread](https://adobe.ly/3rqbSOz)
+>* Please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified about upcoming webinars.

@@ -1,39 +1,33 @@
 ---
-title: 适用于 Eclipse 的 AEM 开发人员工具
-description: AEM Developer Tools for Eclipse是一组Eclipse插件，旨在使AEM应用程序开发更轻松、更直接，并符合最佳实践。 基于两个新项目实例（一个用于OSGi包，一个用于JCR内容），它允许在Eclipse和AEM实例之间进行无缝的迭代同步。 它附带一个内容浏览器，可显示和编辑FileVault格式的内容。 最后，它包含一个基于Maven的多模块示例项目，可用于引导项目设置。
+title: AEM Developer Tools for Eclipse
+description: The AEM Developer Tools for Eclipse is a set of Eclipse plugins aimed at making AEM application development easier, more straight forward and aligned with best-practices. Based on two new project facades - one for OSGi bundles and one for JCR content - it allows seamless and iterative synchronization between Eclipse and AEM instances. It comes with a Content Browser which allows displaying and editing of FileVault-formatted content. Last but not least, it contains a sample, multi-module, maven-based project that can be used for bootstrapping a project setup.
 uuid: cb4bb28a-8370-4425-b082-3516b35f3125
 discoiquuid: dfefaa5f-0800-4d6c-99c0-430b2d960079
 targetaudience: target-audience advanced
 exl-id: 3d8db8a1-d2a7-48ed-bd56-9430f17298e1
-source-git-commit: 93072cbc6ca3f4bded2aeb1e8e92a2345ce4623f
-workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 7%
-
 ---
+# AEM Developer Tools for Eclipse{#aem-developer-tools-for-eclipse}
 
-# 适用于 Eclipse 的 AEM 开发人员工具{#aem-developer-tools-for-eclipse}
-
-AEM Developer Tools for Eclipse是一组Eclipse插件，旨在使AEM应用程序开发更轻松、更直接，并符合最佳实践。 基于两个新项目实例（一个用于OSGi包，一个用于JCR内容），它允许在Eclipse和AEM实例之间进行无缝的迭代同步。 它附带一个内容浏览器，可显示和编辑FileVault格式的内容。 最后，它包含一个基于Maven的多模块示例项目，可用于引导项目设置。
+The AEM Developer Tools for Eclipse is a set of Eclipse plugins aimed at making AEM application development easier, more straight forward and aligned with best-practices. Based on two new project facades - one for OSGi bundles and one for JCR content - it allows seamless and iterative synchronization between Eclipse and AEM instances. It comes with a Content Browser which allows displaying and editing of FileVault-formatted content. Last but not least, it contains a sample, multi-module, maven-based project that can be used for bootstrapping a project setup.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19465/?quality=9)
 
-*2014年8月20日交付*
+*Delivered August 20, 2014*
 
-**呈列方式：**
+**Presented by:**
 
-Stefan Egli，开发人员，Adobe
+Stefan Egli, Developer, Adobe
 
-**演示者幻灯片**
+**Presenter slides**
 
-[获取文件](assets/aem-dev-tools-cq-gems.pdf)
+[Get File](assets/aem-dev-tools-cq-gems.pdf)
 
-## 相关链接 {#related-links}
+## Related links {#related-links}
 
-* [AEM Developer Tools for Eclipse — 文档](http://docs.adobe.com/docs/en/dev-tools/aem-eclipse.html)
-* [AEM Developer Tools下载网站](http://eclipse.adobe.com/aem/dev-tools/)
-* [Sling IDE工具](https://sling.apache.org/documentation/development/ide-tooling.html)
-* [讨论和问题论坛](http://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)
-* [问题报告和跟踪](https://github.com/Adobe-Marketing-Cloud/aem-eclipse-developer-tools/issues)
-* [Hobbes.js:UI测试框架](http://docs.adobe.com/docs/en/aem/6-0/develop/components/hobbes.html)
-* [返回概述](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [AEM Developer Tools for Eclipse - documentation](http://docs.adobe.com/docs/en/dev-tools/aem-eclipse.html)
+* [AEM Developer Tools Download Site](http://eclipse.adobe.com/aem/dev-tools/)
+* [Sling IDE Tooling](https://sling.apache.org/documentation/development/ide-tooling.html)
+* [Forum for discussions & questions](http://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)
+* [Issue reporting & tracking](https://github.com/Adobe-Marketing-Cloud/aem-eclipse-developer-tools/issues)
+* [Hobbes.js: UI Testing Framework](http://docs.adobe.com/docs/en/aem/6-0/develop/components/hobbes.html)
+* [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -1,37 +1,31 @@
 ---
-title: SharePoint Connector — 设置和配置
-description: '获取有关如何设置和配置与CQ/AEM(5.6.0)共享连接器的分步指南，以及一些示例演示。 Adobe的SharePoint Connector通过标准的JCR界面公开内容，使应用程序能够以标准化方式访问驻留在专有存储库中的内容，从而简化对内容的访问。 '
+title: SharePoint Connector - setup and configuration
+description: Get a step-by-step guideline on how to setup and configure a Share connector with CQ/AEM (5.6.0), along with a demo of few examples. Adobe’s SharePoint Connector exposes content via the standard JCR interface, enabling applications to access content that resides in a proprietary repository in a standardized manner, thus, simplifying access to content. 
 uuid: 48c54652-4816-4e31-933d-5d710db40ba3
 discoiquuid: 731a0196-b5da-459c-96a6-7da08cd3756d
 targetaudience: target-audience advanced
 exl-id: db54f5e6-41ab-4319-80d1-710f712be3a2
-source-git-commit: 6d504ea3091265bba4c1d9d91ea3d704455a195f
-workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 1%
-
 ---
+# SharePoint Connector - Setup and Configuration{#sharepoint-connector-setup-and-configuration}
 
-# SharePoint Connector — 设置和配置{#sharepoint-connector-setup-and-configuration}
+Adobe’s SharePoint Connector exposes content via the standard JCR interface, enabling applications to access content that resides in a proprietary repository in a standardized manner, thus, simplifying access to content. In this session we will provide step-by-step guideline on how to setup and configure a Share Connector with CQ/AEM (5.6.0), along with a demo of few examples on:
 
-Adobe的SharePoint Connector通过标准的JCR界面公开内容，使应用程序能够以标准化方式访问驻留在专有存储库中的内容，从而简化对内容的访问。 在本课程中，我们将提供有关如何设置和配置使用CQ/AEM(5.6.0)共享连接器的分步指南，以及有关以下内容的几个示例演示：
-
-* 从SharePoint读取内容和元数据
-* 将文件和文件夹写入SharePoint文档库
-* 在SharePoint系统上执行查询
-* 使用SharePoint公告
+* Reading content and metadata from SharePoint 
+* Writing files and folders to the SharePoint document libraries 
+* Executing queries on the SharePoint system 
+* Working with SharePoint Announcements
 
 >[!VIDEO](https://video.tv.adobe.com/v/19525/?quality=9)
 
-*2014年1月29日交付*
+*Delivered January 29, 2014*
 
-**呈列方式：**
+**Presented by:**
 
-Tarun Aggarwal，首席软件工程师，Adobe
+Tarun Aggarwal, Lead Software Engineer, Adobe
 
-**演示者幻灯片**
+**Presenter slides**
 
-[获取文件](assets/cq-gems-sharepoint-connector.pdf)
+[Get File](assets/cq-gems-sharepoint-connector.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

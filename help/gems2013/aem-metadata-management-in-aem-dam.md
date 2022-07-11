@@ -1,34 +1,28 @@
 ---
-title: AEM DAM中的元数据管理
-description: 了解AEM DAM如何管理资产的元数据。 了解XMP标准以及DAM如何使用它、如何在搜索中使用元数据，以及如何扩展内置元数据架构。 此外，还介绍了最新DAM功能包中引入的新元数据架构编辑器。
+title: Metadata management in AEM DAM
+description: Learn how AEM DAM manages the metadata of assets. Learn the XMP standard and how DAM makes use of it, how to use metadata in searches, and how to extend the built-in metadata schemas. The new metadata schema editor, which has been introduced in the latest DAM feature pack, is presented as well.
 uuid: 09bce4bb-8880-41ae-b95c-1f36407191ff
 discoiquuid: 0e2538bc-7a1a-41ce-8fed-64805ca1bb89
 targetaudience: target-audience advanced
 exl-id: dc3b60a4-2aec-46d5-9129-d8cbb2a14d92
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 2%
-
 ---
+# Metadata Management in AEM DAM{#metadata-management-in-aem-dam}
 
-# AEM DAM中的元数据管理{#metadata-management-in-aem-dam}
-
-了解AEM DAM如何管理资产的元数据。 了解XMP标准以及DAM如何使用它、如何在搜索中使用元数据，以及如何扩展内置元数据架构。 此外，还介绍了最新DAM功能包中引入的新元数据架构编辑器。
+Learn how AEM DAM manages the metadata of assets. Learn the XMP standard and how DAM makes use of it, how to use metadata in searches, and how to extend the built-in metadata schemas. The new metadata schema editor, which has been introduced in the latest DAM feature pack, is presented as well.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19524/?quality=9)
 
-*2013年11月20日交付*
+*Delivered November 20, 2013*
 
-**呈列方式：**
+**Presented by:**
 
-Ugo Cei，开发人员技术营销经理，Adobe
+Ugo Cei, Developer Technical Marketing Manager, Adobe
 
-**演示者幻灯片**
+**Presenter slides**
 
-[获取文件](assets/metadata-management-in-aem-dam.pdf)
+[Get File](assets/metadata-management-in-aem-dam.pdf)
 
-## 相关链接 {#related-links}
+## Related links {#related-links}
 
-[文档](https://docs.adobe.com/content/docs/en/cq/5-6-1/dam/metadata_for_digitalassetmanagement.html)
+[Documentation](https://docs.adobe.com/content/docs/en/cq/5-6-1/dam/metadata_for_digitalassetmanagement.html)
 

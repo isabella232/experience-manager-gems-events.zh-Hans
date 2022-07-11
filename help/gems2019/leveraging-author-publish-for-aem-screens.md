@@ -1,29 +1,23 @@
 ---
-title: 为AEM Screens利用创作发布
-description: 为AEM Screens设置完整的制作设置，并了解将内容发布到Screens/数字标牌播放器的所有必要步骤。
+title: Leveraging author-publish for AEM Screens
+description: Get a full production setup for AEM Screens and learn all necessary steps for publishing content onto Screens / Digital Signage player.
 uuid: 45a68d1d-824e-4922-b440-dd53131d2bdc
 discoiquuid: ea92d8e0-1dc3-4933-9fd2-f8d240ec65ba
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 2%
-
 ---
 
+# Leveraging author-publish for AEM Screens{#leveraging-author-publish-for-aem-screens}
 
-# 为AEM Screens利用创作发布{#leveraging-author-publish-for-aem-screens}
+In this Gems session we will do a full production setup for AEM Screens and explain all necessary steps for publishing content onto Screens / Digital Signage player. Learn how to leverage author-publish topology for AEM Screens. Preview the steps an author has to do to publish content updates and distribute them to the devices. Further, we will have a closer look on the architecture behind this flow. In addition, you will find out about the configuration needed for the publish cluster, replication and devices.
 
-在此Gems课程中，我们将为AEM Screens完成完整的制作设置，并说明将内容发布到Screens/数字标牌播放器的所有必要步骤。 了解如何利用创作 — 发布拓扑来实现AEM Screens。 预览作者在发布内容更新并将内容更新分发到设备时必须执行的步骤。 此外，我们将更仔细地了解此流程背后的架构。 此外，您还将了解发布群集、复制和设备所需的配置。
+**Presented by:**
 
-**呈列方式：**
-
-Iulia Grumaz，软件开发、Adobe
+Iulia Grumaz, Computer Scientist, Software Development, Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/28706/?quality=9)
 
-*2019年9月4日交付*
+*Delivered September 4, 2019*
 
-演示文稿
+Presentation
 
-[获取文件](assets/leveraging-author-publish-aem-screens-final.pdf)
+[Get File](assets/leveraging-author-publish-aem-screens-final.pdf)

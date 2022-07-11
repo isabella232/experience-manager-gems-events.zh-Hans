@@ -1,57 +1,50 @@
 ---
-title: 集成AEM和CIF框架，打造丰富而沉浸式的电子商务体验
-description: 了解如何使用Adobe的CIF框架来构建一致且内容丰富且沉浸式的商业体验。
+title: Integrate AEM & CIF framework to build a rich and immersive e-commerce experience
+description: Understand how Adobe’s CIF framework can be used to build a consistent and content-rich and immersive commerce experience.
 version: Experience Manager
 feature: Integrations
 topic: Integrations
 role: User
 level: Intermediate
 kt: 10220
-source-git-commit: 3ae9186bba2e82b6084dbced62129e5e693722fb
-workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 0%
-
 ---
 
+# Integrate AEM & CIF framework to build a rich and immersive e-commerce experience
 
-# 集成AEM和CIF框架，打造丰富而沉浸式的电子商务体验
-
-此AEM GEM网络研讨会包括一个演示和演示，帮助您了解如何使用Adobe的CIF框架来构建一个一致且内容丰富、沉浸式商务体验。 Experience Manager和Adobe Commerce可使用商务集成框架(CIF)无缝集成。 CIF使AEM能够使用Adobe Commerce的GraphQL API（查看下面的高级议程）直接访问商务实例并与其通信。
+This AEM GEMs webinar includes a presentation and demo to help you understand how Adobe’s CIF framework can be used to build a consistent and content-rich and immersive commerce experience. The Experience Manager and Adobe Commerce are seamlessly integrated using the Commerce Integration Framework (CIF). CIF enables AEM to directly access and communicate with the commerce instance using Adobe Commerce’s GraphQL APIs (View the high level agenda below).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
 
-本次网络研讨会于2022年4月27日举行，由Adobe技术架构师Kunal Gaba和Vinay Kumar介绍。
+This webinar was conducted on April 27th, 2022 and presented by Kunal Gaba & Vinay Kumar, both Technical Architects at Adobe.
 
 >[!MORELIKETHIS]
 >
->* [相应的Adobe Experience Manager用户群组事件页面](https://adobe.ly/3O0uXl5/)
->* [对应的上下文线程](https://adobe.ly/3jorz5r)
->* 请在 [Adobe的AEM用户组](https://aem-augs.adobe.com/) 以了解有关即将召开的网络研讨会的通知。
+>* [Corresponding Adobe Experience Manager User Group Event page](https://adobe.ly/3O0uXl5/)
+>* [Corresponding Contextual Thread](https://adobe.ly/3jorz5r)
+>* Please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified about upcoming webinars.
 
+**High-level agenda:**
 
-**高级别议程：**
+* What is CIF and why use CIF?
 
-* 什么是CIF，为何使用CIF?
+* CIF integration types and how to use CIF with AEM
 
-* CIF集成类型和如何将CIF与AEM结合使用
+* CIF component library
 
-* CIF组件库
+  * AEM CIF Core components
+    
+  * PWA studio library react components
 
-   * AEM CIF核心组件
+* Considerations for multi-brand and multi-store setup
 
-   * PWAstudio库react组件
+  * Cloud service configuration in AEM
 
-* 有关多品牌和多商店设置的注意事项
+  * FE code organization and deployment
 
-   * AEM中的云服务配置
+  * Context-aware configurations
 
-   * FE代码组织和部署
+  * Multisite management
 
-   * 上下文感知配置
+* Best practices and learnings
 
-   * 多站点管理
-
-* 最佳实践和学习
-
-* 演示
+* Demo
