@@ -1,33 +1,39 @@
 ---
-title: AEM Fluid Experiences for headless usecases
-description: Learn about fluid experiences and its application in managing content and experiences for either headful or headless CMS scenarios. Learn about key AEM 6.3 latest capabilities that enable channel agnostic experience management use-cases, and more.
+title: AEM无头用例的流式体验
+description: 了解流畅体验及其在管理头部或无头CMS场景的内容和体验中的应用。 了解AEM 6.3的最新关键功能，这些功能支持与渠道无关的体验管理用例等。
 uuid: b7ee2de4-385a-486f-80e4-741e3965ed28
 discoiquuid: 0a81aa6a-94f6-4e38-98fb-c48809899a24
 targetaudience: target-audience advanced
 exl-id: eb132b24-3ab3-4281-8dc8-d47add632106
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '191'
+ht-degree: 1%
+
 ---
-# AEM Fluid Experiences for headless usecases{#aem-fluid-experiences-for-headless-usecases}
 
-In this session we will cover Adobe Experience Manager fluid experiences and its application in managing content and experiences for either headful or headless CMS scenarios. Learn about key AEM 6.3 latest capabilities that enable channel agnostic experience management use-cases. Hear how fellow customers are using Experience Fragments and Content Services to reuse web content across mobile app, single page applications, and custom applications. Join us to learn the implementation details, demo and applications for content syndication. Learn the how-to create once and deliver across channels. 
+# AEM无头用例的流式体验{#aem-fluid-experiences-for-headless-usecases}
 
-Key Takeaways: 
+在本课程中，我们将介绍Adobe Experience Manager流畅体验及其在管理头部或无头CMS情景的内容和体验中的应用。 了解AEM 6.3的最新关键功能，这些功能支持与渠道无关的体验管理用例。 了解其他客户如何使用体验片段和内容服务在移动设备应用程序、单页应用程序和自定义应用程序中重复使用Web内容。 加入我们，了解内容整合的实施详细信息、演示和应用程序。 了解如何创建一次并跨渠道交付。
 
-* Understand the new resources available for use when in omnichannel CMS conversations
-* Be able to deliver Adobe's point of view and solution with Fluid Experiences
-* New demo and how-tos available for your customer conversations 
+关键要点：
+
+* 了解在全渠道CMS对话中可用的新资源
+* 能够通过流畅体验提供Adobe的视点和解决方案
+* 针对客户对话提供的新演示和操作方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/20495/?quality=9)
 
-*Delivered October 18, 2017*
+*2017年10月18日交付*
 
-**Presented by:**
+**呈列方式：**
 
-* Haresh Kumar, Director of Strategy and Product Marketing AEM, Adobe
-* Gilles Knobloch, Senior Engineering Manager, Adobe
+* Haresh Kumar，战略和产品营销DirectorAEM,Adobe
+* Gilles Knobloch，高级工程经理，Adobe
 
-**Presenter slides**
+**演示者幻灯片**
 
-[Get File](assets/gems-fluid-experiencesoct1617.pdf)
+[获取文件](assets/gems-fluid-experiencesoct1617.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

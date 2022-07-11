@@ -1,32 +1,38 @@
 ---
-title: Utilizing SAML in Adobe Experience Manager deployments
-description: Join Sham Hassan Chikkegowda, CS Engineer, and Timothee Maret, Senior Developer, of Adobe for a review of using Security Assertion Markup Language (SAML) with your Experience Manager deployments. SAML is an XML-based, open-standard data format for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider.  SAML is a product of the OASIS Security Services Technical Committee.
+title: 在Adobe Experience Manager部署中利用SAML
+description: 与CS工程师Sham Hassan Chikkegowda和Adobe高级开发人员Timothee Maret一起审查在Experience Manager部署中使用安全断言标记语言(SAML)的情况。 SAML是基于XML的开放标准数据格式，用于在各方之间（尤其是在身份提供者和服务提供者之间）交换身份验证和授权数据。  SAML是OASIS安全服务技术委员会的产品。
 uuid: 1fef0c03-50fc-4874-aab3-6b8908a91938
 discoiquuid: eec3e83c-b167-457e-8db7-41dfebb3b406
 targetaudience: target-audience advanced
 exl-id: 5a1ee63b-ca8c-408e-996e-d802e84b8cc7
----
-# Utilizing SAML in Adobe Experience Manager deployments{#utilizing-saml-in-adobe-experience-manager-deployments}
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '238'
+ht-degree: 2%
 
-Join Sham Hassan Chikkegowda, CS Engineer, and Timothee Maret, Senior Developer, of Adobe for a review of using Security Assertion Markup Language (SAML) with your Experience Manager deployments. SAML is an XML-based, open-standard data format for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider.  SAML is a product of the OASIS Security Services Technical Committee.
+---
+
+# 在Adobe Experience Manager部署中利用SAML{#utilizing-saml-in-adobe-experience-manager-deployments}
+
+与CS工程师Sham Hassan Chikkegowda和Adobe高级开发人员Timothee Maret一起审查在Experience Manager部署中使用安全断言标记语言(SAML)的情况。 SAML是基于XML的开放标准数据格式，用于在各方之间（尤其是在身份提供者和服务提供者之间）交换身份验证和授权数据。  SAML是OASIS安全服务技术委员会的产品。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19299/?quality=9)
 
-*Delivered July 20, 2016*
+*2016年7月20日交付*
 
-**Presented by:**
+**呈列方式：**
 
-* Sham Hassan Chikkegowda, CS Engineer, Adobe
-* Timothee Maret, Senior Developer, Adobe
+* Sham Hassan Chikkegowda，CS工程师，Adobe
+* Timothee Maret，高级开发人员，Adobe
 
-**Presenter slides**
+**演示者幻灯片**
 
-[Get File](assets/aem-gems-072016-saml.pdf)
+[获取文件](assets/aem-gems-072016-saml.pdf)
 
-## Related links {#related-links}
+## 相关链接 {#related-links}
 
-* [SAML 2.0 Authentication Handler](https://docs.adobe.com/docs/en/aem/6-2/administer/security/saml-2-0-authenticationhandler.html)
-* [[SAMLProf] Profiles for the OASIS Security Assertion Markup Language (SAML) V2.0](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)
-* [[SAMLBind] Bindings for the OASIS Security Assertion Markup Language (SAML) V2.0](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)
-* [[SAMLTech] Security Assertion Markup Language (SAML) V2.0 Technical Overview](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)
-* [SAML V2.0 Executive Overview](https://www.oasis-open.org/committees/download.php/13525/sstc-saml-exec-overview-2.0-cd-01-2col.pdf)
+* [SAML 2.0 身份验证处理程序](https://docs.adobe.com/docs/en/aem/6-2/administer/security/saml-2-0-authenticationhandler.html)
+* [[SAMLProf] OASIS安全断言标记语言(SAML)V2.0的配置文件](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)
+* [[SAMLind] OASIS安全断言标记语言(SAML)V2.0的绑定](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)
+* [[SAMLeth]安全断言标记语言(SAML)V2.0技术概述](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)
+* [SAML V2.0执行概述](https://www.oasis-open.org/committees/download.php/13525/sstc-saml-exec-overview-2.0-cd-01-2col.pdf)

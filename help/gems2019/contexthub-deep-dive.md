@@ -1,27 +1,33 @@
 ---
-title: Deep Dive on implementation details of stores, modules and segments in ContextHub
-description: This Gems sessions is dedicated to have a closer look on implementation details of ContextHub stores of different types, using different persistence layers. Custom modules implementation (both via code and configuration using base module renderer), as well as how to organize modules in separate ContextHub modes. Lastly, we will see how ContextHub segment traits are working, how to implement custom comparator and how to instantiate segments programatically.
+title: 深入了解ContextHub中存储、模块和区段的实施详细信息
+description: 此Gems会议旨在通过不同的持久层，更详细地了解不同类型的ContextHub存储的实施详细信息。 自定义模块实施（通过代码和使用基本模块渲染器进行配置），以及如何在单独的ContextHub模式下组织模块。 最后，我们将看到ContextHub区段特征的工作方式、如何实施自定义比较器以及如何以编程方式实例化区段。
 uuid: 5e8f86e2-269e-4fb8-b899-5be7ef2c977a
 discoiquuid: 77331d10-2e87-4cc8-8557-23e983d98a72
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '199'
+ht-degree: 1%
+
 ---
 
-# Deep Dive on implementation details of stores, modules and segments in ContextHub{#deep-dive-on-implementation-details-of-stores-modules-and-segments-in-contexthub}
 
-This Gems sessions is dedicated to have a closer look on implementation details of ContextHub stores of different types, using different persistence layers. Custom modules implementation (both via code and configuration using base module renderer), as well as how to organize modules in separate ContextHub modes. Lastly, we will see how ContextHub segment traits are working, how to implement custom comparator and how to instantiate segments programatically.
+# 深入了解ContextHub中存储、模块和区段的实施详细信息{#deep-dive-on-implementation-details-of-stores-modules-and-segments-in-contexthub}
+
+此Gems会议旨在通过不同的持久层，更详细地了解不同类型的ContextHub存储的实施详细信息。 自定义模块实施（通过代码和使用基本模块渲染器进行配置），以及如何在单独的ContextHub模式下组织模块。 最后，我们将看到ContextHub区段特征的工作方式、如何实施自定义比较器以及如何以编程方式实例化区段。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27010/?quality=9)
 
-*Delivered 03/20/19*
+*已交付03/20/19*
 
-**Presented by:** Artur Kudlacz, Developer, Adobe
+**呈列方式：** Artur Kudlacz，开发人员，Adobe
 
-Presenter slides, Date: 03/20/2019
+演示者幻灯片，日期：03/20/2019
 
-[Get File](assets/aem-gems-contexthubdeepdive-03202019.pdf)
+[获取文件](assets/aem-gems-contexthubdeepdive-03202019.pdf)
 
-ContextHub sample package:  
+ContextHub示例包：
 
-Artur's mentioned ContextHub sample package is available on:  
+Artur中提到的ContextHub示例包可在以下位置获取：
 
 [https://github.com/grubyak/aem/tree/master/content-packages/gems/2019-03-20-contexthub-deep-dive](https://github.com/grubyak/aem/tree/master/content-packages/gems/2019-03-20-contexthub-deep-dive)

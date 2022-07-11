@@ -1,28 +1,34 @@
 ---
-title: Social Component Framework in AEM 6
-description: Learn how to use and extend Social Component Framework in AEM 6. Get information on the documentation and cookbooks available.
+title: AEM 6中的社交组件框架
+description: 了解如何在AEM 6中使用和扩展社交组件框架。 获取有关可用文档和指南的信息。
 uuid: ea0d66a9-258c-45a7-92c9-8f43b7615080
 discoiquuid: bb43bdf0-8d8d-40c2-865f-ad675348e667
 targetaudience: target-audience advanced
 exl-id: 31be54b9-ba72-4574-a413-ecd09196a220
----
-# Social Component Framework in AEM 6{#social-component-framework-in-aem}
+source-git-commit: 6d504ea3091265bba4c1d9d91ea3d704455a195f
+workflow-type: tm+mt
+source-wordcount: '189'
+ht-degree: 1%
 
-The Social Component Framework (SCF) is available as a featurepack for CQ 5.6.1 and shipped with AEM 6.0. SCF provides a way to build web and mobile applications that use a hybrid of server rendering to allow search engine optimization of content along with client rendering to avoid page refreshes and provide rich in-page experiences. The same template is used for both client and server rendering, providing assurance that the experience is consistent independent of which rendering is used. Well-defined endpoints allow effective caching of pages, templates and json data, and provide clear extensibility patterns for customers to insert their own client and server logic. This session will cover how to use and extend SCF, and provide information on the documentation and cookbooks available.
+---
+
+# AEM 6中的社交组件框架{#social-component-framework-in-aem}
+
+Social组件框架(SCF)是CQ 5.6.1的一个功能，随AEM 6.0一起提供。SCF提供了一种构建Web和移动应用程序的方法，这些应用程序使用服务器渲染的混合功能来优化内容以及客户端渲染，以避免页面刷新，并提供丰富的页面内体验。 同一模板用于客户端和服务器渲染，从而确保体验与渲染的使用无关，并保持一致。 定义良好的端点允许有效缓存页面、模板和json数据，并为客户插入其自己的客户端和服务器逻辑提供清晰的可扩展性模式。 本课程将介绍如何使用和扩展SCF，并提供有关可用文档和指南的信息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19464/?quality=9)
 
-*Delivered August 13, 2014*
+*2014年8月13日交付*
 
-**Presented by:**
+**呈列方式：**
 
-Siddharth Palaniswami, Sr. Software Engineering Lead, Adobe
+Siddharth Palaniswami，高级软件工程主管，Adobe
 
-**Presenter slides**
+**演示者幻灯片**
 
-[Get File](assets/scf-gems.pdf)
+[获取文件](assets/scf-gems.pdf)
 
-## Related links {#related-links}
+## 相关链接 {#related-links}
 
-* [Github link for code sample](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
-* [Social Component Framework](http://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)
+* [代码示例的Github链接](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
+* [社交组件框架](http://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)

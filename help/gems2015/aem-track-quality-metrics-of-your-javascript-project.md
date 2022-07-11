@@ -1,34 +1,40 @@
 ---
-title: Track quality metrics of your Javascript project
-description: Methodology to integrate sonarqube analysis to Javascript projects and thus get access to • Basic static code analysis • Unit testing coverage • Integration testing coverage (AEM)
+title: 跟踪Javascript项目的质量量度
+description: 将Sonarqube分析集成到Javascript项目，从而获得访问权限的方法·基本静态代码分析·单元测试覆盖·集成测试覆盖(AEM)
 uuid: 72507d44-fc08-4be5-a91b-a6c05709fe35
 discoiquuid: 6511d4b9-302a-453a-a6b0-8eea40769b20
 targetaudience: target-audience advanced
 exl-id: 7b3b0418-c6a5-42f8-9274-ad275235fd88
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '80'
+ht-degree: 5%
+
 ---
-# Track quality metrics of your Javascript project{#track-quality-metrics-of-your-javascript-project}
 
-Methodology to integrate sonarqube analysis to Javascript projects and thus get access to:
+# 跟踪Javascript项目的质量量度{#track-quality-metrics-of-your-javascript-project}
 
-* Basic static code analysis 
-* Unit testing coverage 
-* Integration testing coverage (AEM)
+将Sonarqube分析集成到Javascript项目，从而获取以下访问权限的方法：
+
+* 基本静态代码分析
+* 单元测试覆盖
+* 集成测试覆盖(AEM)
 
 >[!VIDEO](https://video.tv.adobe.com/v/19372/?quality=9)
 
-*Delivered December 9, 2015*
+*2015年12月9日交付*
 
-**Presented by:**
+**呈列方式：**
 
-* David Catalan, Lead QE Developer, Adobe
+* David Catalan，QE首席开发人员，Adobe
 
-**Presenter slides**
+**演示者幻灯片**
 
-[Get File](assets/aem-gems-js-quality-metrics-12-9-15.pdf)
+[获取文件](assets/aem-gems-js-quality-metrics-12-9-15.pdf)
 
-**Code Sample**
+**代码示例**
 
-[Get File](assets/com-adobe-granite-ui-utils-timing-with-licenses.zip)
+[获取文件](assets/com-adobe-granite-ui-utils-timing-with-licenses.zip)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

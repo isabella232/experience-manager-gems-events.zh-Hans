@@ -1,31 +1,37 @@
 ---
-title: Dispatcher caching - New features and optimizations
-description: Learn how to fine tune your AEM Dispatcher cache. Learn about the newest features in AEM dispatcher and some ways you can optimize your cache. The session covers new features added between versions 4.1.0 and 4.1.9.
+title: 调度程序缓存 — 新增功能和优化
+description: 了解如何优化AEM Dispatcher缓存。 了解AEM Dispatcher的最新功能以及优化缓存的一些方法。 此会话介绍了在版本4.1.0和4.1.9之间添加的新功能。
 uuid: eb15e787-4487-4c0e-aa16-b9685bb580e8
 discoiquuid: 0d0eb59a-cc06-4b0e-960b-c82aa229f382
 targetaudience: target-audience advanced
 exl-id: 06da2cc5-9cf3-4b4a-bff1-9f2ff75f27da
----
-# Dispatcher caching - New features and optimizations{#dispatcher-caching-new-features-and-optimizations}
+source-git-commit: b7806491034e1afcef503311de86bb15fda51460
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 3%
 
-To maximize your AEM experience, it is important that you fine tune your AEM Dispatcher cache. Learn about the newest features in AEM dispatcher and some ways you can optimize your cache. The session covers new features added between versions 4.1.0 and 4.1.9.
+---
+
+# 调度程序缓存 — 新增功能和优化{#dispatcher-caching-new-features-and-optimizations}
+
+为了最大化您的AEM体验，请务必对AEM Dispatcher缓存进行微调。 了解AEM Dispatcher的最新功能以及优化缓存的一些方法。 此会话介绍了在版本4.1.0和4.1.9之间添加的新功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19378/?quality=9)
 
-*Delivered January 28, 2015*
+*2015年1月28日交付*
 
-**Presented by:**
+**呈列方式：**
 
-* Dominique Pfister, Senior Computer Scientist, Adobe
-* Andrew Khoury, CS Engineer, Adobe
+* Dominique Pfister，高级计算机科学家，Adobe
+* Andrew Khoury，CS工程师，Adobe
 
-**Presenter slides - part 1**
+**演示者幻灯片 — 第1部分**
 
-[Get File](assets/aemgems-dispatcher-caching-part1-jan-28-2015.pdf)
+[获取文件](assets/aemgems-dispatcher-caching-part1-jan-28-2015.pdf)
 
-**Presenter slides - part 2**
+**演示者幻灯片 — 第2部分**
 
-[Get File](assets/aemgems-dispatcher-caching-part2-jan-28-2015.pdf)
+[获取文件](assets/aemgems-dispatcher-caching-part2-jan-28-2015.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

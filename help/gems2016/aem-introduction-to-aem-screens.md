@@ -1,33 +1,39 @@
 ---
-title: Introduction to AEM Screens
-description: AEM Screens is the new digital signage solution integrated into Adobe Experience Manager. In this AEM Gems session, we will present the main features of AEM Screens and how to set up a simple Project with a slideshow and an interactive experience. We then give an overview of how to develop AEM Screens optimized components and how to set up Channels for offline use. Finally, we will explore the AEM Screens REST API and explain how to integrate custom Cordova plugins.
+title: AEM Screens 简介
+description: AEM Screens是集成到Adobe Experience Manager中的新数字标牌解决方案。 在本次AEM Gem会议中，我们将介绍AEM Screens的主要功能，以及如何设置一个包含幻灯片放映和交互式体验的简单项目。 然后，我们将概述如何开发AEM Screens优化的组件以及如何设置离线使用的渠道。 最后，我们将探索AEM Screens REST API，并说明如何集成自定义Cordova插件。
 uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
 exl-id: b68e5d95-876d-48c5-874d-5b9459c56220
----
-# Introduction to AEM Screens{#introduction-to-aem-screens}
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '214'
+ht-degree: 5%
 
-AEM Screens is the new digital signage solution integrated into Adobe Experience Manager. In this AEM Gems session, we will present the main features of AEM Screens and how to set up a simple Project with a slideshow and an interactive experience. We then give an overview of how to develop AEM Screens optimized components and how to set up Channels for offline use. Finally, we will explore the AEM Screens REST API and explain how to integrate custom Cordova plugins.
+---
+
+# AEM Screens 简介{#introduction-to-aem-screens}
+
+AEM Screens是集成到Adobe Experience Manager中的新数字标牌解决方案。 在本次AEM Gem会议中，我们将介绍AEM Screens的主要功能，以及如何设置一个包含幻灯片放映和交互式体验的简单项目。 然后，我们将概述如何开发AEM Screens优化的组件以及如何设置离线使用的渠道。 最后，我们将探索AEM Screens REST API，并说明如何集成自定义Cordova插件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19301/?quality=9)
 
-*Delivered November 16, 2016*
+*2016年11月16日交付*
 
-**Presented by:**
+**呈列方式：**
 
-* Julien Ramboz, UI Developer, Adobe
-* Tobias Reiss, Computer Scientist, Software Development, Adobe
+* Julien Ramboz，用户界面开发人员，Adobe
+* Tobias Reiss，计算机科学家，软件开发，Adobe
 
-**Presenter slides**
+**演示者幻灯片**
 
-[Get File](assets/2016-11-16-aem-screens.pdf)
+[获取文件](assets/2016-11-16-aem-screens.pdf)
 
-Sample Project
+示例项目
 
-[Get File](assets/aemscreensgems.zip)
+[获取文件](assets/aemscreensgems.zip)
 
-## Related links {#related-links}
+## 相关链接 {#related-links}
 
-* [Deploying Screens](https://docs.adobe.com/docs/en/aem/6-2/deploy/screens.html)
-* [Screens Concept](https://docs.adobe.com/docs/en/aem/6-2/administer/screens.html)
+* [部署Screens](https://docs.adobe.com/docs/en/aem/6-2/deploy/screens.html)
+* [Screens概念](https://docs.adobe.com/docs/en/aem/6-2/administer/screens.html)

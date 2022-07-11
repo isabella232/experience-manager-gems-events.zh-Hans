@@ -1,71 +1,78 @@
-# Adobe Code of Conduct
+---
+source-git-commit: 34d3ebb312069a5e036bdedfced8375a6b6d7d5b
+workflow-type: tm+mt
+source-wordcount: '431'
+ht-degree: 100%
 
-## Our Pledge
+---
+# Adobe 行为准则
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and
-orientation.
+## 我们的承诺
 
-## Our Standards
+为了促进开放且友好的环境，我们作为
+贡献者和维护者保证：无论年龄、体型、
+身体健全与否、民族、性别认同与表达（方式）、
+经验水平、国籍、个人形象、种族、宗教
+或性认同与性取向，参与者在我们的项目和社区中
+都免受骚扰。
 
-Examples of behavior that contributes to creating a positive environment
-include:
+## 我们的标准
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+有助于创建良好环境的行为示例
+包括：
 
-Examples of unacceptable behavior by participants include:
+* 使用友好和包容性语言
+* 尊重不同的观点和经历
+* 耐心接受建设性批评
+* 关注对社区最有利的事情
+* 友善对待其他社区成员
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
-advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+参与者不能接受的行为示例包括：
 
-## Our Responsibilities
+* 使用带有性色彩的语言或图像，以及
+进行性骚扰
+* 发表挑衅、侮辱/贬损的评论，进行人身攻击或政治攻击
+* 公开或私下骚扰
+* 未经明确许可，发布他人的私密信息，例如住址
+或电子邮箱
+* 其他可被合理认定为不恰当或
+违反职业操守的行为
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+## 我们的责任
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+项目维护者有责任为可接受的行为标准做出诠释，
+以及对已发生的不被接受的行为采取
+恰当且公平的纠正措施。
 
-## Scope
+项目维护者有权利及责任删除、编辑或
+拒绝违反本行为准则的评论、提交、
+代码、Wiki 编辑、问题以及其他贡献行为，
+并且可以暂时或永久地禁止所有贡献者做出
+任何不适当、威胁、冒犯或有害行为。
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+## 范围
 
-## Enforcement
+当个人代表项目或其社区时，本行为准则同时适用于
+项目空间和公共空间。代表项目或
+社区的示例包括使用官方项目电子邮件地址、
+通过官方社交媒体帐户发布内容，
+或在线上或线下事件中担任指定代表。项目的呈现方式可由项目维护者
+进一步定义和解释。
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at Grp-opensourceoffice@adobe.com. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+## 强制执行
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+如果要举报辱骂、骚扰或其他不可接受的行为事件，
+请通过 Grp-opensourceoffice@adobe.com 联系项目团队。项目
+团队会审核和调查所有投诉，
+并对相关情况做出必要和适当的回应。项目团队
+有义务为事件举报者保密。
+具体执行政策的更多细节可能会单独发布。
 
-## Attribution
+对于不遵守或不执行本行为准则的项目维护者，
+其他项目领导层成员可以决定
+暂时或永久地取消其参与资格。
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://contributor-covenant.org), version 1.4,
-available at [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
+## 归属
+
+本行为准则改编自[投稿人公约](https://contributor-covenant.org) 第 1.4 版本，
+可从 [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/) 访问

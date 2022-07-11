@@ -1,34 +1,40 @@
 ---
-title: Introduction to HTL
-description: Get an introduction to HTL, a new templating engine and language implementation. HTL endeavors to supersede JSP as scripting language for Apache Sling and CQ/AEM components and strives to clearly separate presentation and logic concerns.
+title: HTL简介
+description: 了解HTL（一种新的模板引擎和语言实施）。 HTL努力取代JSP作为Apache Sling和CQ/AEM组件的脚本语言，并努力明确区分呈现方式和逻辑问题。
 uuid: 980bc4ee-8b7f-4bce-9933-8b8af4cce3d2
 discoiquuid: e53db2da-f9a4-45b8-9203-1e4084937bba
 targetaudience: target-audience advanced
 exl-id: c1e7125b-bea3-40c8-b43d-9b969713ca57
----
-# Introduction to HTL{#introduction-to-htl}
+source-git-commit: 93072cbc6ca3f4bded2aeb1e8e92a2345ce4623f
+workflow-type: tm+mt
+source-wordcount: '174'
+ht-degree: 2%
 
-HTL is a new templating engine and language implementation. HTL endeavors to supersede JSP as scripting language for Apache Sling and CQ/AEM components and strives to clearly separate presentation and logic concerns. Security measures such as XSS prevention are automatically applied. Another major advantage of HTL is that it is based purely on HTML5, thus allowing 3rd party agencies to focus on design related parts of a CQ/AEM project without CQ/AEM knowledge. HTL is not limited to Java environments, through the pluggable compiler interface it can be implemented on many different platforms such as node.js and php.
+---
+
+# HTL简介{#introduction-to-htl}
+
+HTL是一种新的模板引擎和语言实现。 HTL努力取代JSP作为Apache Sling和CQ/AEM组件的脚本语言，并努力明确区分呈现方式和逻辑问题。 自动应用诸如XSS预防等安全措施。 HTL的另一个主要优势是它完全基于HTML5，因此允许第三方机构在不了解CQ/AEM的情况下专注于设计CQ/AEM项目的相关部分。 HTL不限于Java环境，通过可插入的编译器界面，它可以在许多不同的平台上实施，如node.js和php。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19504/?quality=9)
 
-*Delivered June 25, 2014*
+*2014年6月25日交付*
 
-**Presented by:**
+**呈列方式：**
 
-Gabriel Walt, Product Manager, Adobe
+Gabriel Walt，产品经理，Adobe
 
-**Presenter slides**
+**演示者幻灯片**
 
-[Get File](assets/sightly-component-development.pdf)
+[获取文件](assets/sightly-component-development.pdf)
 
-**Session Questions and Answers**
+**会议问题和解答**
 
-[Get File](assets/introduction-to-sightly-q-as.pdf)
+[获取文件](assets/introduction-to-sightly-q-as.pdf)
 
-## Related links {#related-links}
+## 相关链接 {#related-links}
 
-[Developing with HTL](https://docs.adobe.com/docs/en/htl/overview.html?wcmmode=disabled)
+[使用HTL进行开发](https://docs.adobe.com/docs/en/htl/overview.html?wcmmode=disabled)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
