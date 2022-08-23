@@ -1,13 +1,13 @@
 ---
 title: 集成AEM和CIF框架，打造丰富而沉浸式的电子商务体验
 description: 了解如何使用Adobe的CIF框架来构建一致且内容丰富且沉浸式的商业体验。
-version: Experience Manager
+version: Cloud Service
 feature: Integrations
 topic: Integrations
 role: User
 level: Intermediate
 kt: 10220
-source-git-commit: 3ae9186bba2e82b6084dbced62129e5e693722fb
+source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
