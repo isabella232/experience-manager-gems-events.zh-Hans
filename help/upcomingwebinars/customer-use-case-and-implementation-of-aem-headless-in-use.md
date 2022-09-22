@@ -1,7 +1,7 @@
 ---
 title: 客户使用案例及AEM Headless在用实施
 description: 会议公告
-version: 6.5
+version: Experience Manager
 feature: AEM Community Lens
 topic: Administration
 role: User
