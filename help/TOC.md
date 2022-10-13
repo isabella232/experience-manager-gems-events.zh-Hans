@@ -3,9 +3,9 @@ user-guide-title: Adobe Experience Manager GEMS活动
 user-guide-description: 了解AEM Gems，Adobe Experience Manager专家提供的一系列深入技术探讨。
 breadcrumb-title: AEM GEM事件
 feature-set: Experience Manager
-source-git-commit: 242bef6c08cf6579add0d5754280831d062b0add
+source-git-commit: 9ad6ce49d6728e36168482133f3017303c90c72f
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '616'
 ht-degree: 3%
 
 ---
@@ -15,22 +15,23 @@ ht-degree: 3%
 
 + [概述](overview.md)
 + 即将召开的网络研讨会{#upcomingwebinars}
-   + [客户使用案例及AEM Headless在用实施](/help/upcomingwebinars/customer-use-case-and-implementation-of-aem-headless-in-use.md)
+   + [公告](/help/upcomingwebinars/anouncements.md)
 + 2022{#gems2022}
+   + [客户使用案例及AEM Headless在用实施](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [正在揭秘 — Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [集成AEM和CIF框架，打造丰富而沉浸式的电子商务体验](gems2022/aem-and-cif-framework-integration.md)
    + [使用AEM Headless和App Builder更快地构建网站](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service:《2021年回顾与2022年展望》](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020{#gems2020}
    + [AEM 6.5准备好走向世界 — 翻译集成和最佳实践](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
-+ 2019年{#gems2019}
++ 2019{#gems2019}
    + [Experience Manager6.5的新增功能 [!DNL Sites]](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
    + [AEM富文本编辑器(RTE)深入研究](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
    + [深入了解ContextHub中存储、模块和区段的实施详细信息](gems2019/contexthub-deep-dive.md)
    + [使用AEM 6.5创建无人头全渠道体验](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
    + [介绍AEM现代化套件](gems2019/introducing-the-aem-modernization-suite.md)
    + [为AEM Screens利用创作发布](gems2019/leveraging-author-publish-for-aem-screens.md)
-+ 2018年{#gems2018}
++ 2018{#gems2018}
    + [深入了解Adobe Experience Manager 6.4](gems2018/aem-6-4-technical-sneak-peek.md)
    + [Adobe Experience Platform -Experience Cloud的核心](gems2018/aem-acp.md)
    + [实时且轻量：使用Adobe I/O事件构建事件驱动的与AEM的集成](gems2018/aem-adobe-io.md)
