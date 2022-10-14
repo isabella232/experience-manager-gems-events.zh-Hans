@@ -10,16 +10,44 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM会议
-source-git-commit: 88f872c25aafb17c0e57103c3918265c36f02745
+source-git-commit: 1e3446dde6cff9498ed3982c092b5cab7e541a8c
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Adobe Experience Manager Gems
 
 <img alt="数字体验" src="./assets/ADX_Gems.png"/>
+
+## 即将推出的AEM GEM活动！
+
+<!---  Remove the comment marks, and put the upcoming event in the below table
+
+<table style="max-width: 1214px;">
+<tr>
+  <td style="vertical-align: top;">
+    <a href="https://www.youtube.com/watch?v=f1T9XU9TCJU">
+      <img alt="Experience League LIVE Oct 25" src="assets/Oct25_2022_exl_live_banner_web_1920_WebBanner.png">
+    </a>
+    <div>
+      <a href="https://www.youtube.com/watch?v=f1T9XU9TCJU">
+        <strong>Deliver the right offer at the right time with decision management</strong>
+      </a>
+      <br/><em>with Sandra Hausmann, Ben Tepfer, Brandon Poyfair, and Jason Hickey</em>
+      <br/><em>October 25, 2022</em>
+    </div>
+  </td>
+</tr>
+</table>
+
+--->
+有关即将推出的AEM GEM的更多信息，将于2022年11月发布。
+
+>[!NOTE]
+>
+> 注册以在 [Adobe的AEM用户组](https://aem-augs.adobe.com/).
 
 ## 2022年重新发布AEM GEM。
 
@@ -32,10 +60,9 @@ ht-degree: 2%
 * 在每次网络研讨会后可进行录制
 * 网络研讨会免费
 
-## 即将召开的网络研讨会和注册
-
 我们所有的AEM GEM网络研讨会都是免费的，并且都是虚拟进行的。
-* 请在 [Adobe的AEM用户组](https://aem-augs.adobe.com/) 以了解有关我们即将召开的网络研讨会的通知。
+
+在 [Adobe的AEM用户组](https://aem-augs.adobe.com/) 以了解有关我们即将召开的网络研讨会的通知。
 
 ## Experience League社区
 
