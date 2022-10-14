@@ -3,7 +3,7 @@ user-guide-title: Adobe Experience Manager GEMS活动
 user-guide-description: 了解AEM Gems，Adobe Experience Manager专家提供的一系列深入技术探讨。
 breadcrumb-title: AEM GEM事件
 feature-set: Experience Manager
-source-git-commit: a79a6bf9f22e7ba171bdb08a1be27978c669ef63
+source-git-commit: df64475d20fd646580794c1fdfbfa0ab27454434
 workflow-type: tm+mt
 source-wordcount: '615'
 ht-degree: 3%
@@ -14,8 +14,8 @@ ht-degree: 3%
 # Experience ManagerGEMS活动 {#gems}
 
 + [概述](overview.md)
-   + [即将召开的网络研讨会](/help/announcements.md)
 + 2022 {#gems2022}
+   + [即将召开的网络研讨会](/help/announcements.md)
    + [客户使用案例及AEM Headless在用实施](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [正在揭秘 — Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [集成AEM和CIF框架，打造丰富而沉浸式的电子商务体验](gems2022/aem-and-cif-framework-integration.md)
