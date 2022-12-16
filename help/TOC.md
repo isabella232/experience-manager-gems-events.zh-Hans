@@ -3,9 +3,9 @@ user-guide-title: Adobe Experience Manager GEMS活动
 user-guide-description: 了解AEM Gems，Adobe Experience Manager专家提供的一系列深入技术探讨。
 breadcrumb-title: AEM GEM事件
 feature-set: Experience Manager
-source-git-commit: df64475d20fd646580794c1fdfbfa0ab27454434
+source-git-commit: 2e7c56f001b7318c7d2c64dcbec51bebfcfe1225
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '625'
 ht-degree: 3%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 3%
 
 + [概述](overview.md)
 + 2022 {#gems2022}
+   + [AEM Best Practices Analyzer for On Premise和AMS环境](gems2022/aem-best-practices-analyzer.md)
    + [即将召开的网络研讨会](/help/announcements.md)
    + [客户使用案例及AEM Headless在用实施](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [正在揭秘 — Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
@@ -47,7 +48,7 @@ ht-degree: 3%
    + [SPA Editor SDK深入研究 — 第1部分 — react](gems2018/spa-editor-sdk-deep-dive-react.md)
    + [SPA Editor SDK深入研究 — 第2部分 — angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
    + [在AEM中使用OSGi R7](gems2018/using-osgi-r7-in-aem.md)
-+ 2017年 {#gems2017}
++ 2017 {#gems2017}
    + [Asset Share的主要品牌门户版本和新的参考实施](/help/gems2017/aem-brand-portal.md)
    + [构建AEM的运行状况检查](/help/gems2017/aem-building-health-checks-for-aem.md)
    + [为AEM开发OSGi包和服务](/help/gems2017/aem-developing-osgi-bundles-services-for-aem.md)
@@ -63,7 +64,7 @@ ht-degree: 3%
    + [AEM 6.3准备好走向世界 — 翻译集成和最佳实践](/help/gems2017/aem-translation-best-practices.md)
    + [AEM复制疑难解答](/help/gems2017/aem-troubleshooting-aem-replication.md)
    + [Sling内容分发疑难解答](/help/gems2017/aem-troubleshooting-sling.md)
-+ 2016年 {#gems2016}
++ 2016 {#gems2016}
    + [为企业配置DAM](/help/gems2016/aem-configuring-dam-for-enterprise.md)
    + [AEM Screens 简介](/help/gems2016/aem-introduction-to-aem-screens.md)
    + [使用Adobe Experience Manager的模板编辑器管理内容](/help/gems2016/aem-managing-content-with-template-editor.md)
@@ -74,7 +75,7 @@ ht-degree: 3%
    + [用于测试Adobe Experience Manager应用程序的工具](/help/gems2016/aem-testing-tools-for-aem-apps.md)
    + [在Adobe Experience Manager部署中利用SAML](/help/gems2016/aem-utilizing-saml-in-aem-deployments.md)
    + [AEM web性能](/help/gems2016/aem-web-performance.md)
-+ 2015年 {#gems2015}
++ 2015 {#gems2015}
    + [AEM 6.1翻译集成和最佳实践](/help/gems2015/aem-6-1-translation-integration-and-best-practices.md)
    + [使用AEM 6.1创建在线社区](/help/gems2015/aem-creating-online-communities-with-aem-6-1.md)
    + [在触屏UI中自定义对话框字段](/help/gems2015/aem-customizing-dialog-fields-in-touch-ui.md)
@@ -88,7 +89,7 @@ ht-degree: 3%
    + [AEM Tech先睹为快](/help/gems2015/aem-tech-sneak-peek.md)
    + [的提示和技巧 [!DNL AEM Sites] 触屏UI](/help/gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
    + [跟踪JavaScript项目的质量量度](/help/gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
-+ 2014年 {#gems2014}
++ 2014 {#gems2014}
    + [通过DTM云服务在本地AEM实例上部署Adobe Analytics](/help/gems2014/aem-adobe-analytics-dynamic-tag-management.md)
    + [如何充分利用DAM功能包](/help/gems2014/aem-dam-feature-pack.md)
    + [将托管内容交付到本机应用程序](/help/gems2014/aem-delivering-managed-content-to-your-native-apps.md)
@@ -105,7 +106,7 @@ ht-degree: 3%
    + [深入研究AEM 6平台](/help/gems2014/aem-technical-deep-dive-into-the-aem-6-platform.md)
    + [AEM 6平台技术概述](/help/gems2014/aem-technical-overview-of-the-aem-6-platform.md)
    + [AEM 6的用户界面自定义](/help/gems2014/aem-user-interface-customization-for-aem6.md)
-+ 2013年 {#gems2013}
++ 2013 {#gems2013}
    + [AEM 5.6平台的架构](/help/gems2013/aem-architecture-of-the-aem-5-6-platform.md)
    + [CQ/AEM 5.6疑难解答](/help/gems2013/aem-cq-aem-5-6-troubleshooting.md)
    + [电子商务集成框架](/help/gems2013/aem-ecommerce-integration-framework.md)
