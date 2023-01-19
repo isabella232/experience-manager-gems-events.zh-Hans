@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM会议
-source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
+source-git-commit: ac58e896b1d01876b5a00d426bdf3e2176e6f95e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '311'
 ht-degree: 1%
 
 ---
@@ -43,13 +43,12 @@ ht-degree: 1%
 </table>
 
 --->
-即将召开的AEM GEM网络研讨会： *AEM Best Practices Analyzer for On Premise和AMS环境*.
-时间：1月18日，下午5:00 CET /上午8:00 PST /晚9:30 IST资源： [AEM Best Practices Analyzer](/help/gems2022/aem-best-practices-analyzer.md)
-注册： [网络研讨会注册](https://aem-augs.adobe.com/e/mz8eae/)
+最近的AEM GEM网络研讨会： *AEM Best Practices Analyzer for On Premise和AMS环境*.
+执行：1月18日，下午5:00 CET /上午8:00 PST /晚9:30 IST资源： [AEM Best Practices Analyzer](/help/gems2023/aem-best-practices-analyzer.md)
 
 >[!NOTE]
 >
-> 注册以在 [Adobe的AEM用户组](https://aem-augs.adobe.com/).
+> 注册以在即将召开的AEM GEM网络研讨会上接收通知 [Adobe的AEM用户组](https://aem-augs.adobe.com/).
 
 ## 2022年重新发布AEM GEM。
 
@@ -76,8 +75,8 @@ ht-degree: 1%
 
 ## 以前的网络研讨会录制
 
-我们上次的网络研讨会是关于 **集成AEM和CIF框架，打造丰富而沉浸式的电子商务体验** 于4月27日进行。
+我们上次的网络研讨会是关于 **AEM Best Practices Analyzer for On Premise和AMS环境** 并于2023年1月18日进行。
 
->[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413364/)
 
-本次网络研讨会由Adobe技术架构师Kunal Gaba和Vinay Kumar介绍。
+有关会话详细信息（包括说明和演示者信息），请访问 [AEM Best Practices Analyzer](/help/gems2023/aem-best-practices-analyzer.md).
