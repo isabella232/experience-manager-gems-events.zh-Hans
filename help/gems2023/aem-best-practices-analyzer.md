@@ -7,7 +7,7 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: a2a18df80d8a5dfe545bda36d82ea23239e388f1
+source-git-commit: 9d0b0f54f81e5dcc2f169b1e3420a1bca3e8d0a5
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -25,9 +25,9 @@ ht-degree: 0%
 
 ### 演示者
 
-* Aditi Dutt Chaudhari，高级产品经理，Adobe
+* Aditi Dutt Chaudhuri，高级产品经理，Adobe
 * Saurabh Saxena，工程经理，Adobe
-* Kiran Murugula，云高级架构师，Adobe
+* 基兰·穆鲁古拉，高级云架构师，Adobe
 * Vaibhav Varshney，计算机科学家，Adobe
 * Himani Chauhan，计算机科学家，Adobe
 
