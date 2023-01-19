@@ -7,20 +7,16 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: 57071c7c13f7a4314961bb246bbe9076d110e58c
+source-git-commit: a2a18df80d8a5dfe545bda36d82ea23239e388f1
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
 # AEM Best Practices Analyzer for On Premise和AMS环境
 
-## 时间：2023年1月18日
-
-## 注册
-
-对于此网络研讨会，请通过 [AdobeAEM用户组](https://aem-augs.adobe.com/).
+## 此网络研讨会已于2023年1月18日召开 — 请查看以下记录
 
 ## 描述
 
@@ -34,3 +30,12 @@ ht-degree: 0%
 * Kiran Murugula，云高级架构师，Adobe
 * Vaibhav Varshney，计算机科学家，Adobe
 * Himani Chauhan，计算机科学家，Adobe
+
+## 网络研讨会记录 — 01/18/2023
+
+>[!VIDEO](https://video.tv.adobe.com/v/3413364/)
+
+>[!NOTE]
+>
+>* 有关Experience League上特定于会话的社区交互，请访问此 [上下文线程](https://bit.ly/3Z6AyM1)
+>* 要接收有关网络研讨会的自动通知，请在 [Adobe的AEM用户组](https://aem-augs.adobe.com/).
