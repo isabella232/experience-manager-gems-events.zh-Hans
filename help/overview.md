@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM会议
-source-git-commit: ac58e896b1d01876b5a00d426bdf3e2176e6f95e
+source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '308'
 ht-degree: 1%
 
 ---
@@ -43,8 +43,8 @@ ht-degree: 1%
 </table>
 
 --->
-最近的AEM GEM网络研讨会： *AEM Best Practices Analyzer for On Premise和AMS环境*.
-执行：1月18日，下午5:00 CET /上午8:00 PST /晚9:30 IST资源： [AEM Best Practices Analyzer](/help/gems2023/aem-best-practices-analyzer.md)
+*利用快速开发环境加快Adobe Experience ManagerCloud Service开发*
+日期：2月22日，下午5:00 CET / 8:00 PST / 9:30 IST资源： [AEM Rapid Development Environments网络研讨会](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
