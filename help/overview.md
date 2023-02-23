@@ -10,10 +10,10 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM会议
-source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
+source-git-commit: f0d35b1bfd5c9be402486f1777fdade0174ca6ee
 workflow-type: tm+mt
-source-wordcount: '308'
-ht-degree: 1%
+source-wordcount: '279'
+ht-degree: 2%
 
 ---
 
@@ -43,8 +43,8 @@ ht-degree: 1%
 </table>
 
 --->
-*利用快速开发环境加快Adobe Experience ManagerCloud Service开发*
-日期：2月22日，下午5:00 CET / 8:00 PST / 9:30 IST资源： [AEM Rapid Development Environments网络研讨会](/help/gems2023/Rapid-Development-Environments.md)
+我们最新的AEM GEM网络研讨会 *利用快速开发环境加快Adobe Experience ManagerCloud Service开发* 于2023年2月22日进行。
+录像可在此处找到： [AEM Rapid Development Environments网络研讨会](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
@@ -73,10 +73,4 @@ ht-degree: 1%
 * 快速答案：广泛的真实用例答案，可支持成功主动使用Adobe解决方案
 * 构思和反馈：吸引客户产品创意，并向产品团队提供有价值的VoC反馈
 
-## 以前的网络研讨会录制
 
-我们上次的网络研讨会是关于 **AEM Best Practices Analyzer for On Premise和AMS环境** 并于2023年1月18日进行。
-
->[!VIDEO](https://video.tv.adobe.com/v/3413364/)
-
-有关会话详细信息（包括说明和演示者信息），请访问 [AEM Best Practices Analyzer](/help/gems2023/aem-best-practices-analyzer.md).

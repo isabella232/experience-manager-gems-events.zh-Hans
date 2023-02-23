@@ -10,9 +10,9 @@ doc-type: Event
 last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
-source-git-commit: 66e2150987319e08f22ca002015da24b18f5e452
+source-git-commit: f0d35b1bfd5c9be402486f1777fdade0174ca6ee
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,7 @@ ht-degree: 0%
 
 # 利用快速开发环境加快AEMas a Cloud Service开发
 
-## 此网络研讨会将于2023年2月22日召开 — 请通过活动页面注册
-
-通过注册 [事件页面](http://bit.ly/3DsMcYw) AdobeAEM用户组 — 学习章节。
+本网络研讨会已于2023年2月22日召开。 请查看下面的录像。
 
 ## 会话描述
 
@@ -34,6 +32,10 @@ RDE允许开发人员快速部署和审查更改，从而最大限度地减少�
 * Natalia Angulo Herrera，软件开发工程师
 * 高级计算机科学家Karl Pauls
 * David Bosschaert，高级软件工程师
+
+## 网络研讨会记录 — 01/18/2023
+
+>[!VIDEO](https://video.tv.adobe.com/v/3415876)
 
 >[!NOTE]
 >
