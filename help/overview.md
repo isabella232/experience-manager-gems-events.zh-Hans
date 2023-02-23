@@ -10,7 +10,7 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM会议
-source-git-commit: c6540288afd5bd5e2c2cad7c5803ecbf1de65542
+source-git-commit: 5d0685d5dba95f454b2af58841501812dc5be8f0
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 2%
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 <img alt="数字体验" src="./assets/ADX_Gems.png"/>
 
-## 即将推出的AEM GEM活动！
+## 上一个AEM GEM事件！
 
 <!---  Remove the comment marks, and put the upcoming event in the below table
 
@@ -43,8 +43,8 @@ ht-degree: 2%
 </table>
 
 --->
-我们最新的AEM GEM网络研讨会 *利用快速开发环境加快Adobe Experience ManagerCloud Service开发* 于2023年2月22日进行。
-录像可在此处找到： [AEM Rapid Development Environments网络研讨会](/help/gems2023/Rapid-Development-Environments.md)
+我们最新的AEM GEM网络研讨会 **利用快速开发环境加快Adobe Experience ManagerCloud Service开发** 已执行 *2023年2月22日*.
+的 **记录** 可在此处找到： [AEM Rapid Development Environments网络研讨会](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
