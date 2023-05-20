@@ -1,37 +1,37 @@
 ---
 title: Adobe Experience Platform -Experience Cloud的核心
-description: 一切都从Adobe Experience Platform开始。 了解该平台如何在体验业务中发挥作用，帮助您识别、了解和吸引客户，并提供一致、连续、引人入胜的体验，让客户在每一时刻都满意。
+description: 一切從Adobe Experience Platform開始。 探索平台如何在體驗業務中扮演角色，協助您識別、瞭解及吸引客戶，並提供一致、持續且吸引人的體驗，讓客戶在所有環節都感到愉快。
 uuid: 502196b9-9cfb-4652-83a4-9156434370a1
 discoiquuid: 6e050ad4-1b0c-46d0-b588-6402102f0263
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 1a75ea51-6205-4ad8-b60b-f741a89ef443
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
+# Adobe Experience Platform -Experience Cloud的核心{#adobe-experience-platform-the-heart-of-experience-cloud}
 
-# Adobe Experience Platform -Experience Cloud之心{#adobe-experience-platform-the-heart-of-experience-cloud}
+一切從Adobe Experience Platform開始。 探索平台如何在體驗業務中扮演角色，協助您識別、瞭解及吸引客戶，並提供一致、持續且吸引人的體驗，讓客戶在所有環節都感到愉快。 平台本身就是體驗業務的記錄系統。  瞭解我們所說的平台的確切含義，包括內容、發展方向、現在和未來如何獲得價值，甚至Adobe合作夥伴如何參與。 當然，我們不會只是討論它，您也會看到它的實際運作。
 
-一切都从Adobe Experience Platform开始。 了解该平台如何在体验业务中发挥作用，帮助您识别、了解和吸引客户，并提供一致、连续、引人入胜的体验，让客户在每一时刻都满意。 该平台本身是体验业务记录系统。  了解我们对平台的确切含义，包括它是什么、它的发展方向、如何在现在和未来获得价值，甚至是Adobe合作伙伴如何参与。 当然，我们不会只是讨论它，你也会看到它的实际作用。
+在本次研討會中，瞭解如何：
 
-在本课程中，了解如何：
-
-* 构成Adobe Experience Platform的组件 — 数据服务
-* Data Science Workspace显着改进了丰富客户体验的设计和交付
-* 与Adobe Experience Platform集成和使用体验数据模型的首要步骤
-* 面向第三方开发人员的当前和未来集成选项
+* 構成Adobe Experience Platform的元件 — 資料服務
+* 資料科學工作區大幅改善多樣化客戶體驗的設計和傳遞
+* 與Adobe Experience Platform整合及使用Experience Data Model的第一步
+* 適用於協力廠商開發人員的目前和未來整合選項
 
 >[!VIDEO](https://video.tv.adobe.com/v/23270/?quality=9)
 
-*已交付08/08/2018*
+*2018年8月8日提供*
 
-**呈列方式：**
+**展示者：**
 
-Klaasjan Tukker，Director产品管理部，Adobe
+Klaasjan Tukker，Director產品管理，Adobe
 
-日期：08/08/2018
+日期： 2018年8月8日
 
 [获取文件](assets/20180808-gems-adobe+cloud+platform-experience+system+of+record-1.pdf)
 

@@ -1,46 +1,46 @@
 ---
-title: SPA Editor SDK Deep Dive — 第2部分 — Angular
-description: 深入研究单页应用程序的开发，这些应用程序可使用AEM页面编辑器进行创作。
+title: SPA Editor SDK深入探討 — 第2部分 — Angular
+description: 深入瞭解可使用AEM頁面編輯器編寫的單頁應用程式開發情況。
 uuid: 4ac2d85b-63f9-4d74-a8c0-7857be6b3d84
 discoiquuid: 3b050b88-e1c3-4a42-81ce-bd1b321a01e7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 89d370b7-7398-4c94-b7e9-85e70a1f169b
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 5%
 
 ---
 
+# SPA Editor SDK深入探討 — 第2部分 — Angular{#spa-editor-sdk-deep-dive-part-angular}
 
-# SPA Editor SDK Deep Dive — 第2部分 — Angular{#spa-editor-sdk-deep-dive-part-angular}
+深入瞭解可使用AEM頁面編輯器編寫的單頁應用程式開發情況。 在此工作階段中，您將可存取下列有關Angular的內容：
 
-深入研究单页应用程序的开发，这些应用程序可使用AEM页面编辑器进行创作。 在此会话中，您将有权访问与Angular有关的以下内容：
-
-* 关于项目结构的考虑和建议
-* 审查构成项目架构的所有层
-* 对AEM和SPA组件角色的分析
-* 模型对象的结构和关键JSON字段
-* 有用的代码片段
-* SDK提供的组件导览
-* 关键实施详细信息
+* 有關專案結構的考量事項和建議
+* 檢閱構成專案架構的所有層
+* 深入分析AEM和SPA元件的角色
+* 模型物件的結構和關鍵JSON欄位
+* 有用的程式碼片段
+* 導覽SDK提供的元件
+* 重要實作詳細資料
 
 >[!VIDEO](https://video.tv.adobe.com/v/25503/?quality-9)
 
-*已交付11/21/18*
+*2018年11月21日提供*
 
-呈列方式：Artur Kudlacz，开发人员，Adobe
+簡報者：Artur Kudlacz，開發人員，Adobe
 
-演示者幻灯片 — 11/21/18
+簡報者投影片 — 11/21/18
 
 [获取文件](assets/aem-gems-aem-spaeditorangular-112118.pdf)
 
-## 相关链接 {#related-links}
+## 相關連結 {#related-links}
 
-[周末教程](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=zh-Hans)
+[週末教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=zh-Hans)
 
 [文档](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
-[示例 — We Retail日记帐](https://github.com/adobe/aem-sample-we-retail-journal)
+[範例 — We零售業日誌](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

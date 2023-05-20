@@ -1,6 +1,6 @@
 ---
-title: Brand Portal主要版本和资产共享的新参考实施
-description: 媒体门户对于组织在内部和在许多情况下在外部共享资产至关重要。 在本课程中，我们将向您介绍Adobe资产中的新资产共享共用。
+title: 資產共用的主要Brand Portal版本和新參考實作
+description: 媒體入口網站對於組織內部以及許多情況下外部共用資產都至關重要。 在這場會議中，我們將向您介紹Adobe Assets的新資產共用共用共用。
 uuid: 0a5a3c7c-60b2-400f-b555-ca51f01e8184
 discoiquuid: 524f8a2e-dcd4-44b5-ae2f-524dff8f03ab
 targetaudience: target-audience advanced
@@ -12,29 +12,29 @@ ht-degree: 1%
 
 ---
 
-# Brand Portal主要版本和资产共享的新参考实施{#major-brand-portal-release-and-new-reference-implementation-for-asset-share}
+# 資產共用的主要Brand Portal版本和新參考實作{#major-brand-portal-release-and-new-reference-implementation-for-asset-share}
 
-媒体门户对于组织在内部和在许多情况下在外部共享资产至关重要。 在本课程中，我们将向您介绍Adobe资产中的新资产共享共用。
+媒體入口網站對於組織內部以及許多情況下外部共用資產都至關重要。 在這場會議中，我們將向您介紹Adobe Assets的新資產共用共用。
 
-您将学习：
+您將能學習到：
 
-* 根据用例提供哪些媒体门户选项
-* 如何实施这些选项
-* 确保易用性的最佳实践
+* 根據使用案例，有哪些媒體入口網站選項可供使用
+* 如何實作這些選項
+* 確保易用性的最佳實務
 
 >[!VIDEO](https://video.tv.adobe.com/v/20730/?quality=9)
 
-*2017年11月8日交付*
+*2017年11月8日送達*
 
-**呈列方式：**
+**展示者：**
 
-产品营销经理Mike Carley - [!DNL AEM Assets],Adobe
+產品行銷經理Mike Carley - [!DNL AEM Assets]，Adobe
 
-Krishna Selvaraj，技术营销工程师 — AEM,Adobe
+Krishna Selvaraj，AEM、Adobe技術行銷工程師
 
-Daniel Gordon，技术营销工程师 — AEM,Adobe
+AdobeAEM技術行銷工程師Daniel Gordon
 
-**演示者幻灯片**
+**簡報者投影片**
 
 [获取文件](assets/gems+bp-asset+share+nov+8+17+.pdf)
 <!--

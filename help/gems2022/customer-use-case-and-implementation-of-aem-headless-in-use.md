@@ -1,54 +1,56 @@
 ---
-title: 客户使用案例及AEM Headless在用实施
-description: 会议公告
+title: 客戶使用案例與使用中AEM Headless的實作
+description: 工作階段宣告
 version: 6.5
 feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
-source-git-commit: 9ad6ce49d6728e36168482133f3017303c90c72f
+exl-id: 05c19b41-69d5-4400-85be-38e5a55ef2c1
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
-# AEM GEM功能 — 客户用例和使用中AEM Headless的实施
+# AEM GEM功能 — AEM Headless使用的客戶使用案例與實作
 
-*本网络研讨会已在&#x200B;**世界协调时10月12日，星期三下午3点**. 录像在下面提供。*
+*此網路研討會已於下列日期舉行：**10月12日星期三下午3點(UTC)**. 錄製內容如下。*
 
-这次特殊的AEM GEM会议有两位演讲者，他们以客户身份操作AEM。 会话分为两半，如下所示：
+這次特別的AEM GEM講座提供兩位以客戶身分操作AEM的演講者。 此工作階段將分為兩半，如下所示：
 
-## 第一部分：AEM作为无头CMS的位置/时间/原因？
+## 第1部分：AEM as a headless CMS地點/時間/原因？
 
-演示者：旺加迪士·山姆加瓦卢 — 卡塔尔航空技术设计师
+主持人： Vengadesh Shanmugavelu — 卡達航空技術架構師
 
-**会话描述：**
-我们可以通过多种方式通过AEM实施无头CMS。
-在本次会议中，我们将介绍以下内容：
+**工作階段說明：**
+我們可以透過許多方式透過AEM實作Headless CMS。
+在本次研討會中，我們將介紹下列內容：
 
-* 通过导出程序/Servlet提供的内容服务
-* 通过资产API的内容片段（演示）
-* 通过graphql的内容片段（演示）
-* 有关使用内容片段的一些实时用例及其方法
-* SPA编辑器学习（关于选择时间的一些解决方案方法）（演示）
+* 透過匯出工具/servlet的內容服務
+* 透過資產API的內容片段（示範）
+* 透過graphql的內容片段（示範）
+* 使用內容片段及其方法的部分即時使用案例
+* SPA編輯器學習（選擇時的一些解決方案方法） （示範）
 
-## 第2部分：通过GraphQL API和内容片段交付无头内容
+## 第2部分：透過GraphQL API和內容片段傳送Headless內容
 
-演示者：Debal Das — 高级系统分析师，IBM
+主持人： Debal Das - IBM資深系統分析師
 
-**会话描述：**
-在此会话中，我们将介绍内容片段的GraphQL使用情况（除了现有的JSON API之外）。
+**工作階段說明：**
+在本次研討會中，我們將說明GraphQL對內容片段的使用（除了現有的JSON API）。
 
-从概念上讲，GraphQL类似于SQL数据库查询，但API用于查询而不是数据库除外。
+在概念上，GraphQL類似於SQL資料庫查詢，唯一例外是將API用於查詢，而不是資料庫。
 
-这消除了对API的要求，即提供许多端点来为不同的客户提供各种卷或数据组，并使不同的客户端能够根据自己的需求查询API。
+如此一來，API便不需要提供許多端點，為不同客戶提供不同磁碟區或資料群組，並讓各種使用者端都能根據自己的需求查詢API。
 
-**会话录制**
+**工作階段錄製**
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410160)
 
 >[!NOTE]
 >
->* 有关Experience League上特定于会话的社区交互，请访问此 [上下文线程](https://adobe.ly/3r6P4nr)
->* 要接收有关网络研讨会的自动通知，请在 [Adobe的AEM用户组](https://aem-augs.adobe.com/).
+>* 若為Experience League上特定工作階段的社群互動，請造訪此 [內容執行緒](https://adobe.ly/3r6P4nr)
+>* 若要接收有關網路研討會的自動通知，請註冊網址： [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
+

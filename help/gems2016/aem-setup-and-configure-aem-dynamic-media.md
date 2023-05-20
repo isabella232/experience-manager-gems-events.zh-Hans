@@ -1,6 +1,6 @@
 ---
-title: 设置和配置AEM Dynamic Media
-description: AEM Dynamic Media使客户能够可缩放且经济高效地向所有屏幕和客户接触点提供引人入胜的富媒体体验 — 所有这一切都来自单个主控图像或视频！  在本课程中，我们将为您提供在Dynamic Media上成功实施客户所需了解的所有信息，包括有关用例、技术架构和配置步骤的概述。
+title: 設定和配置AEM Dynamic Media
+description: AEM Dynamic Media可讓客戶透過單一主影像或影片，以可擴充性及符合成本效益的方式，將引人入勝的豐富媒體體驗傳送至所有熒幕和客戶接觸點！  在這場會議中，我們將為您提供在Dynamic Media上成功實施客戶所需的所有知識，包括使用案例、技術架構和設定步驟的概觀。
 uuid: 7074c98e-f9d1-4c15-b9db-dae3efda0ea0
 discoiquuid: c58473c1-d8d8-44a7-ac40-65843c77c937
 targetaudience: target-audience advanced
@@ -12,24 +12,24 @@ ht-degree: 8%
 
 ---
 
-# 设置和配置AEM Dynamic Media{#setup-and-configure-aem-dynamic-media}
+# 設定和配置AEM Dynamic Media{#setup-and-configure-aem-dynamic-media}
 
-AEM Dynamic Media使客户能够可缩放且经济高效地向所有屏幕和客户接触点提供引人入胜的富媒体体验 — 所有这一切都来自单个主控图像或视频！  在本课程中，我们将为您提供在Dynamic Media上成功实施客户所需了解的所有信息，包括有关用例、技术架构和配置步骤的概述。
+AEM Dynamic Media可讓客戶透過單一主影像或影片，以可擴充性及符合成本效益的方式，將引人入勝的豐富媒體體驗傳送至所有熒幕和客戶接觸點！  在這場會議中，我們將為您提供在Dynamic Media上成功實施客戶所需的所有知識，包括使用案例、技術架構和設定步驟的概觀。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19297/?quality=9)
 
-*2016年8月17日交付*
+*2016年8月17日送達*
 
-**呈列方式：**
+**展示者：**
 
-* Cynthia Tillo，首席产品经理，Adobe
-* Bob van Manen，工程经理，Adobe
+* Cynthia Tillo，Adobe主要產品經理
+* Bob van Manen，Adobe工程經理
 
-**演示者幻灯片**
+**簡報者投影片**
 
 [获取文件](assets/aemgems-081716-dynamic-media-configuration.pdf)
 
-## 相关链接 {#related-links}
+## 相關連結 {#related-links}
 
 [配置 Dynamic Media](https://docs.adobe.com/docs/cn/aem/6-2/administer/content/dynamic-media/config-dynamic.html)
 

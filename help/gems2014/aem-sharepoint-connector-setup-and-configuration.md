@@ -1,6 +1,6 @@
 ---
-title: SharePoint Connector — 设置和配置
-description: '获取有关如何设置和配置与CQ/AEM(5.6.0)共享连接器的分步指南，以及一些示例演示。 Adobe的SharePoint Connector通过标准的JCR界面公开内容，使应用程序能够以标准化方式访问驻留在专有存储库中的内容，从而简化对内容的访问。 '
+title: SharePoint Connector — 設定和設定
+description: 取得如何使用CQ/AEM (5.6.0)設定共用聯結器的逐步指引，以及幾個範例的示範。 Adobe的SharePoint Connector透過標準JCR介面公開內容，讓應用程式能以標準化方式存取專屬存放庫中的內容，進而簡化內容的存取。
 uuid: 48c54652-4816-4e31-933d-5d710db40ba3
 discoiquuid: 731a0196-b5da-459c-96a6-7da08cd3756d
 targetaudience: target-audience advanced
@@ -12,24 +12,24 @@ ht-degree: 1%
 
 ---
 
-# SharePoint Connector — 设置和配置{#sharepoint-connector-setup-and-configuration}
+# SharePoint Connector — 設定和設定{#sharepoint-connector-setup-and-configuration}
 
-Adobe的SharePoint Connector通过标准的JCR界面公开内容，使应用程序能够以标准化方式访问驻留在专有存储库中的内容，从而简化对内容的访问。 在本课程中，我们将提供有关如何设置和配置使用CQ/AEM(5.6.0)共享连接器的分步指南，以及有关以下内容的几个示例演示：
+Adobe的SharePoint Connector透過標準JCR介面公開內容，讓應用程式能以標準化方式存取專屬存放庫中的內容，進而簡化內容的存取。 在此會議中，我們將提供如何使用CQ/AEM (5.6.0)設定共用聯結器的逐步指引，並示範幾個範例：
 
-* 从SharePoint读取内容和元数据
-* 将文件和文件夹写入SharePoint文档库
-* 在SharePoint系统上执行查询
+* 從SharePoint讀取內容和中繼資料
+* 將檔案和資料夾寫入SharePoint檔案庫
+* 在SharePoint系統上執行查詢
 * 使用SharePoint公告
 
 >[!VIDEO](https://video.tv.adobe.com/v/19525/?quality=9)
 
-*2014年1月29日交付*
+*2014年1月29日送達*
 
-**呈列方式：**
+**展示者：**
 
-Tarun Aggarwal，首席软件工程师，Adobe
+Adobe軟體工程師主管Tarun Aggarwal
 
-**演示者幻灯片**
+**簡報者投影片**
 
 [获取文件](assets/cq-gems-sharepoint-connector.pdf)
 <!--

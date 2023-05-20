@@ -1,34 +1,34 @@
 ---
-title: AEM 6.5准备好走向世界 — 翻译集成和最佳实践
-description: 了解当前AEM翻译功能以及管理多语言网站的最佳实践。 了解如何构建全局网站、使用语言副本、Live Copy和MSM。 使用高级功能实现更轻松、更快、更易管理的内容翻译。
+title: AEM 6.5為世界做好準備 — 翻譯整合和最佳實踐
+description: 瞭解目前管理多語言網站的AEM翻譯功能和最佳實務。 瞭解如何建構全域網站、使用語言副本、即時副本和MSM。 使用進階功能，實現更簡單、更快、更容易管理的內容翻譯。
 uuid: 50db5f3d-2bd0-4366-8c26-b11c4aa6a23c
 discoiquuid: 0c24228b-b674-47a7-9892-45bb26684ad1
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+exl-id: d920fc11-a328-4357-aca8-63abed5ce63c
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 3%
 
 ---
 
+# AEM 6.5為世界做好準備 — 翻譯整合和最佳實踐{#aem-ready-for-the-world-translation-integration-best-practices}
 
-# AEM 6.5准备好走向世界 — 翻译集成和最佳实践{#aem-ready-for-the-world-translation-integration-best-practices}
+此會議介紹目前管理多語言網站的AEM翻譯功能和最佳實務。 您會瞭解如何建構全域網站並使用語言副本、即時副本和MSM。 此課程也涵蓋如何使用進階功能實現更簡單、更快、更容易管理的內容翻譯。
 
-此会议介绍了当前的AEM翻译功能以及管理多语言网站的最佳实践。 您了解如何构建全局网站，以及如何使用语言副本、Live Copy和MSM。 该会议还介绍了如何使用高级功能实现更简单、更快速、更易管理的内容翻译。
+**展示者：**
 
-**呈列方式：**
-
-* Ankur Sial，计算机科学家，Adobe
-* Harpreet Neelu，Adobe项目经理
+* Ankur Sial，Adobe電腦科學家
+* Harpreet Neelu，Adobe計畫經理
 
 >[!VIDEO](https://video.tv.adobe.com/v/31153?quality=9)
 
-*已交付01/22/2020*
+*2020年1月22日提供*
 
-**演示者幻灯片**
+**簡報者投影片**
 
 [获取文件](assets/gems-2020-translations.pdf)
 
-Q和A会议 — 2020年2月PDF
+工作階段Q和A - 2020年2月PDF
 
 [获取文件](assets/aem-gems-translationqnafeb2020.pdf)

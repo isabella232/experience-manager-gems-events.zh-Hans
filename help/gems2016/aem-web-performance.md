@@ -1,6 +1,6 @@
 ---
-title: AEM Web性能
-description: 快速提供复杂的Web体验是一项挑战。 在这个演讲中，Joel将揭露一些比较常见的陷阱。 其中将包括理论、示例、最佳实践以及工具演示。
+title: AEM Web效能
+description: 快速提供複雜的Web體驗是極具挑戰性的。 在本次演講中，Joel將說明一些較常見的陷阱。 內容包括理論、範例、最佳作法及工具示範。
 uuid: f6338645-e05f-4b57-b576-65645d9220ed
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
@@ -12,28 +12,28 @@ ht-degree: 1%
 
 ---
 
-# AEM Web性能{#aem-web-performance}
+# AEM Web效能{#aem-web-performance}
 
-快速提供复杂的Web体验是一项挑战。 在这个演讲中，Joel将揭露一些比较常见的陷阱。 它将包括理论、示例、最佳实践，以及围绕以下领域演示工具 — 网络和延迟：HTTP/1.1和HTTP/2优化 — AEM服务器请求速度缓慢：识别问题 — JavaScript:最小化开销
+快速提供複雜的Web體驗是極具挑戰性的。 在本次演講中，Joel將說明一些較常見的陷阱。 其中將包括理論、範例、最佳作法，以及圍繞以下區域進行工具示範 — 網路和延遲：最佳化HTTP/1.1和HTTP/2 — 緩慢AEM伺服器請求：識別問題 — JavaScript：減少額外負荷
 
 >[!VIDEO](https://video.tv.adobe.com/v/19296/?quality=9)
 
-*2016年6月1日交付*
+*傳送日期： 2016年6月1日*
 
-**呈列方式：**
+**展示者：**
 
-* Joel Richard，开发人员，Adobe
+* Joel Richard，開發人員，Adobe
 
-**演示者幻灯片**
+**簡報者投影片**
 
 [获取文件](assets/aem-gems-060116-web-performance.pdf)
 
-## 相关链接 {#related-links}
+## 相關連結 {#related-links}
 
 Apache:\
 [https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)
 
-Web标准：\
+網頁標準：\
 [https://www.w3.org/TR/preload/](https://www.w3.org/TR/preload/)\
 [https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
 
@@ -43,19 +43,19 @@ AEM:\
 [https://docs.adobe.com/docs/en/aem/6-2/develop/components/developer-mode.html](https://docs.adobe.com/docs/en/aem/6-2/develop/components/developer-mode.html)\
 [https://helpx.adobe.com/experience-manager/kb/performance-tuning-tips.html](https://helpx.adobe.com/experience-manager/kb/performance-tuning-tips.html)
 
-AEM组件：\
+AEM元件：\
 [https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components](https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components)\
 [https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html](https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html)
 
-第三方：\
+協力廠商：\
 [https://www.ampproject.org/docs/reference/amp-img.html](https://www.ampproject.org/docs/reference/amp-img.html)\
 [http://www.appelsiini.net/projects/lazyload](http://www.appelsiini.net/projects/lazyload)
 
-JavaScript性能：\
+JavaScript效能：\
 [https://gist.github.com/paulirish/5d52fb081b3570c81e3a](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)\
 [https://developers.google.com/web/tools/chrome-devtools/?hl=en](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
 
-探查器：\
+效能分析工具：\
 [https://visualvm.java.net/](https://visualvm.java.net/)
 
 <!--

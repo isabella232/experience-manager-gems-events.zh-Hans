@@ -1,6 +1,6 @@
 ---
-title: AEM [!DNL Forms] 功能包1简介和技术示例
-description: AEM [!DNL Forms] 功能包1是LiveCycle部署的升级路径，可扩展这些实施的范围以包含AEM的所有功能 [!DNL Forms] 更多。 此外，还介绍了由客户驱动的示例，这些示例已公布。
+title: AEM [!DNL Forms] Feature Pack 1簡介和技術範例
+description: AEM [!DNL Forms] Feature Pack 1是LiveCycle部署的升級路徑，並延伸這些實作的觸及面，以包含AEM的所有功能 [!DNL Forms] 加上更多。 此外，還公開介紹客戶導向的範例。
 uuid: da167766-78b9-44ef-80d9-88f7d7897611
 discoiquuid: db0f097d-9796-466d-b923-35be1e6483e1
 targetaudience: target-audience advanced
@@ -12,20 +12,20 @@ ht-degree: 1%
 
 ---
 
-# AEM [!DNL Forms] 功能包1简介和技术示例{#aem-forms-feature-pack-introduction-and-technical-samples}
+# AEM [!DNL Forms] Feature Pack 1簡介和技術範例{#aem-forms-feature-pack-introduction-and-technical-samples}
 
-AEM [!DNL Forms] 功能包1是LiveCycle部署的升级路径，可扩展这些实施的范围以包含AEM的所有功能 [!DNL Forms] 更多。 此外，还介绍了由客户驱动的示例，这些示例已公布。
+AEM [!DNL Forms] Feature Pack 1是LiveCycle部署的升級路徑，並延伸這些實作的觸及面，以包含AEM的所有功能 [!DNL Forms] 加上更多。 此外，還公開介紹客戶導向的範例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19380/?quality=9)
 
-*2015年2月4日交付*
+*2015年2月4日傳遞*
 
-**呈列方式：**
+**展示者：**
 
-* Steve Monroe，企业解决方案高级经理，Adobe
-* Girish Bedekar，LiveCycle解决方案宣传员，Adobe
+* Adobe企業解決方案資深經理Steve Monroe
+* Girish Bedekar，LiveCycle解決方案宣傳專員，Adobe
 
-**演示者幻灯片**
+**簡報者投影片**
 
 [获取文件](assets/aem-forms-fp1-2015-0204.pdf)
 <!--

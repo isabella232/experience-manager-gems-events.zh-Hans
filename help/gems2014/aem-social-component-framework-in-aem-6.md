@@ -1,6 +1,6 @@
 ---
-title: AEM 6中的社交组件框架
-description: 了解如何在AEM 6中使用和扩展社交组件框架。 获取有关可用文档和指南的信息。
+title: AEM 6中的社交元件架構
+description: 瞭解如何在AEM 6中使用和擴充社交元件架構。 取得有關可用檔案和逐步指南的資訊。
 uuid: ea0d66a9-258c-45a7-92c9-8f43b7615080
 discoiquuid: bb43bdf0-8d8d-40c2-865f-ad675348e667
 targetaudience: target-audience advanced
@@ -12,23 +12,23 @@ ht-degree: 1%
 
 ---
 
-# AEM 6中的社交组件框架{#social-component-framework-in-aem}
+# AEM 6中的社交元件架構{#social-component-framework-in-aem}
 
-Social组件框架(SCF)是CQ 5.6.1的一个功能，随AEM 6.0一起提供。SCF提供了一种构建Web和移动应用程序的方法，这些应用程序使用服务器渲染的混合功能来优化内容以及客户端渲染，以避免页面刷新，并提供丰富的页面内体验。 同一模板用于客户端和服务器渲染，从而确保体验与渲染的使用无关，并保持一致。 定义良好的端点允许有效缓存页面、模板和json数据，并为客户插入其自己的客户端和服务器逻辑提供清晰的可扩展性模式。 本课程将介绍如何使用和扩展SCF，并提供有关可用文档和指南的信息。
+Social Component Framework (SCF)是CQ 5.6.1專用的Featurepack，並隨AEM 6.0提供。SCF提供建置網頁和行動應用程式的方法，這些應用程式使用混合式伺服器轉譯，以允許搜尋引擎最佳化內容以及使用者端轉譯，以避免頁面重新整理並提供豐富的頁面體驗。 相同的範本會用於使用者端和伺服器轉譯，以確保體驗的一致性，無論使用哪種轉譯。 明確定義的端點可讓您有效快取頁面、範本和json資料，並提供清楚的可擴充性模式，讓客戶插入自己的使用者端和伺服器邏輯。 本課程將涵蓋如何使用及擴充SCF，並提供可用檔案和逐步指南的相關資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19464/?quality=9)
 
-*2014年8月13日交付*
+*2014年8月13日送達*
 
-**呈列方式：**
+**展示者：**
 
-Siddharth Palaniswami，高级软件工程主管，Adobe
+Siddharth Palaniswami，資深軟體工程主管，Adobe
 
-**演示者幻灯片**
+**簡報者投影片**
 
 [获取文件](assets/scf-gems.pdf)
 
-## 相关链接 {#related-links}
+## 相關連結 {#related-links}
 
-* [代码示例的Github链接](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
-* [社交组件框架](http://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)
+* [程式碼範例的Github連結](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
+* [社交元件架構](http://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)

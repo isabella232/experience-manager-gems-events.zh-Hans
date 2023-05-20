@@ -1,6 +1,6 @@
 ---
-title: AEM GEM会议
-description: 这是AEM GEM的登录页面，包括有关网络研讨会系列和注册信息、之前和即将召开的网络研讨会的信息
+title: AEM GEM講座
+description: 這是AEM GEM的登陸頁面，包括網路研討會系列資訊和報名資訊、先前和即將舉辦的網路研討會
 role: Leader
 exl-id: f8d210e7-b05c-4c71-9640-2cc50e2b309f
 cloud: Experience Cloud
@@ -9,7 +9,7 @@ solution: Experience Manager
 feature: Release Information
 level: Intermediate
 type: Event
-user-guide-description: AEM GEM会议
+user-guide-description: AEM GEM講座
 source-git-commit: 5d0685d5dba95f454b2af58841501812dc5be8f0
 workflow-type: tm+mt
 source-wordcount: '279'
@@ -19,9 +19,9 @@ ht-degree: 2%
 
 # Adobe Experience Manager Gems
 
-<img alt="数字体验" src="./assets/ADX_Gems.png"/>
+<img alt="數位體驗" src="./assets/ADX_Gems.png"/>
 
-## 上一个AEM GEM事件！
+## 先前的AEM GEM活動！
 
 <!---  Remove the comment marks, and put the upcoming event in the below table
 
@@ -43,34 +43,34 @@ ht-degree: 2%
 </table>
 
 --->
-我们最新的AEM GEM网络研讨会 **利用快速开发环境加快Adobe Experience ManagerCloud Service开发** 已执行 *2023年2月22日*.
-的 **记录** 可在此处找到： [AEM Rapid Development Environments网络研讨会](/help/gems2023/Rapid-Development-Environments.md)
+我們最新的AEM GEM網路研討會於 **透過快速開發環境加速Adobe Experience ManagerCloud Service開發** 執行日期 *2023年2月22日*.
+此 **錄製** 可在此處找到： [AEM快速開發環境網路研討會](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
-> 注册以在即将召开的AEM GEM网络研讨会上接收通知 [Adobe的AEM用户组](https://aem-augs.adobe.com/).
+> 報名參加即將舉辦的AEM GEM網路研討會，以接收相關通知 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
 
-## 2022年重新发布AEM GEM。
+## 2022年重新啟動AEM GEM
 
-欢迎使用 **AEM GEM。**  — 由Adobe专家提供的关于Adobe Experience Manager的网络研讨会系列深入技术探讨。 此系列是对产品文档和有关Adobe Experience Manager的所有其他技术渠道的补充，使开发人员能够联系并深入讨论特定主题。
+歡迎使用 **AEM GEM**  — 我們由Adobe專家提供的關於Adobe Experience Manager的一系列技術深入探討。 此系列補充了產品檔案和所有其他有關Adobe Experience Manager的技術管道，讓開發人員可以聯絡並深入瞭解特定主題。
 
-网络研讨会将定期举行，包括：
+網路研討會將定期進行，包括以下內容：
 
-* 最长持续时间为60分钟
-* 网络研讨会结束时的问题与解答以及整个网络研讨会期间都提供的聊天专家
-* 在每次网络研讨会后可进行录制
-* 网络研讨会免费
+* 持續時間上限為60分鐘
+* 問答環節和聊天專家可在整個網路研討會中找到
+* 每個網路研討會之後可用的錄製
+* 網路研討會是免費的
 
-我们所有的AEM GEM网络研讨会都是免费的，并且都是虚拟进行的。
+我們所有的AEM GEM網路研討會都是免費的，而且是以虛擬方式進行。
 
-在 [Adobe的AEM用户组](https://aem-augs.adobe.com/) 以了解有关我们即将召开的网络研讨会的通知。
+註冊位置 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/) 以取得有關我們即將舉辦的網路研討會的通知。
 
-## Experience League社区
+## Experience League社群
 
-我们的 [Experience Manager社区](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) 在支持产品采用和客户成功方面发挥关键作用。
+我們的 [Experience Manager社群](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) 在支援產品採用和客戶成功上扮演關鍵角色。
 
-* 连接：与同行和Adobe人员建立网络，以获取从实施到扩展产品使用的指导和最佳实践
-* 快速答案：广泛的真实用例答案，可支持成功主动使用Adobe解决方案
-* 构思和反馈：吸引客户产品创意，并向产品团队提供有价值的VoC反馈
+* 連線：與同行和Adobe人員建立網路，以獲得從實作到擴大產品使用的指引和最佳實務
+* 快速解答：廣泛的真實使用案例解答，可支援成功主動使用Adobe解決方案
+* 創意與意見反應：聽取客戶產品創意並向產品團隊提供寶貴的VoC意見反應
 
 

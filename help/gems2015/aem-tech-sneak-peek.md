@@ -1,6 +1,6 @@
 ---
-title: AEM Tech先入之门
-description: 在技术演讲中，您可以一睹我们为下一代Adobe Experience Manager所做的工作。
+title: AEM技術搶先一步
+description: 透過技術演講，深入瞭解我們為新一代Adobe Experience Manager所付出的努力。
 uuid: a0eae408-c0a2-44a4-abca-040895955570
 discoiquuid: 78af3b2f-b010-4753-bacc-18696a598ded
 targetaudience: target-audience advanced
@@ -12,19 +12,19 @@ ht-degree: 3%
 
 ---
 
-# AEM Tech先入之门{#aem-tech-sneak-peek}
+# AEM技術搶先一步{#aem-tech-sneak-peek}
 
-在技术演讲中，您可以一睹我们为下一代Adobe Experience Manager所做的工作。
+透過技術演講，深入瞭解我們為新一代Adobe Experience Manager所付出的努力。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19384/?quality=9)
 
-*2015年1月21日交付*
+*2015年1月21日送達*
 
-**呈列方式：**
+**展示者：**
 
-* Gabriel Walt，产品经理，Adobe
+* Adobe產品經理Gabriel Walt
 
-**演示者幻灯片**
+**簡報者投影片**
 
 [获取文件](assets/aem-technical-sneak-peek.pdf)
 <!--

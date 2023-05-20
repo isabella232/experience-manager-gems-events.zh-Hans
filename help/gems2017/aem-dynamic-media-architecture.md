@@ -1,6 +1,6 @@
 ---
-title: AEM Dynamic Media 6.3架构
-description: 与Adobe数字营销部首席产品经理Cynthia Tillo一起了解6.3 Dynamic Media版本。
+title: AEM Dynamic Media 6.3架構
+description: 與Adobe數位行銷的首席產品經理Cynthia Tillo一起瞭解6.3版Dynamic Media。
 uuid: 66934879-1d50-49bd-879a-463f59657b6a
 discoiquuid: e9e8768d-25a8-4b20-b129-1b1e1732dbb9
 targetaudience: target-audience advanced
@@ -12,27 +12,27 @@ ht-degree: 2%
 
 ---
 
-# AEM Dynamic Media 6.3架构{#aem-dynamic-media-architecture}
+# AEM Dynamic Media 6.3架構{#aem-dynamic-media-architecture}
 
-与Adobe数字营销部首席产品经理Cynthia Tillo一起了解Dynamic Media 6.3版本，包括：
+與Adobe數位行銷的首席產品經理Cynthia Tillo一起瞭解6.3 Dynamic Media版本，包括：
 
-* Dynamic Media概述，包括新功能
-* Dynamic Media建筑
-* 疑难解答提示和技巧
+* Dynamic Media概觀，包括新功能
+* Dynamic Media架構
+* 疑難排解提示與秘訣
 
 >[!VIDEO](https://video.tv.adobe.com/v/19570/?quality=9)
 
-*2017年8月30日交付*
+*2017年8月30日送達*
 
-**呈列方式：**
+**展示者：**
 
-* Cynthia Tillo，首席产品经理，Adobe
-* 赫伯特·沃尔夫拉姆，Director工程Adobe
-* Bob van Manen，工程经理，Adobe
-* Peter Ciszak，计算机科学家，Adobe
-* Kirk Jones，计算机科学家，Adobe
+* Cynthia Tillo，Adobe主要產品經理
+* Adobe工程學DirectorHerbert Wolfram
+* Bob van Manen，Adobe工程經理
+* Adobe電腦科學家Peter Ciszak
+* Adobe電腦科學家Kirk Jones
 
-**演示者幻灯片**
+**簡報者投影片**
 
 [获取文件](assets/dynamicmedia83017.pdf)
 <!--

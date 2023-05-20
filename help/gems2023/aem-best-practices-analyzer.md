@@ -1,41 +1,43 @@
 ---
-title: AEM Best Practices Analyzer for On Premise和AMS环境
-description: 最佳实践分析器是一个工具，它提供有关内部部署AEM和AMS实例的分析和报告功能。 它通过指示未遵循建议最佳做法的领域，同时就如何采取行动纠正潜在问题提供指导，从而对您当前的AEM实施情况进行评估。
+title: 適用於內部部署和AMS環境的AEM Best Practices Analyzer
+description: Best Practices Analyzer工具針對AEM內部部署和AMS執行個體提供分析和報告功能。 它會透過指出未遵循建議最佳實務的區域，同時對如何採取行動以補救潛在問題提供指導，從而對您目前的AEM實作產生評估。
 version: 6.5
 feature: Integrations
 topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: 9d0b0f54f81e5dcc2f169b1e3420a1bca3e8d0a5
+exl-id: 3b1aece7-72a0-4948-80de-b4d87479aa60
+source-git-commit: b50c3aff17162699522ed353659ad3ea6f57faf6
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
-# AEM Best Practices Analyzer for On Premise和AMS环境
+# 適用於內部部署和AMS環境的AEM Best Practices Analyzer
 
-## 此网络研讨会已于2023年1月18日召开 — 请查看以下记录
+## 此網路研討會已於2023年1月18日提供 — 請觀看以下錄影
 
 ## 描述
 
-最佳实践分析器是一个工具，它提供有关AEM on-premise和AMS实例的分析和报告功能。 它通过指示未遵循建议最佳做法的领域，同时就如何采取行动纠正潜在问题提供指导，从而对您当前的AEM实施情况进行评估。 动机很简单；在您的AEM环境中确定并解决仅1次误用的问题，有可能改善用户体验，降低技术负担，进而降低总拥有成本(TCO)。 那么，为什么不花时间去看看是否存在改善机会。
-请注意，AEM Best Practices Analyzer不适用于AEMas a Cloud Service环境。
+Best Practices Analyzer工具提供有關AEM內部部署和AMS執行個體的分析和報告功能。 它會透過指出未遵循建議最佳實務的區域，同時對如何採取行動以補救潛在問題提供指導，從而對您目前的AEM實作產生評估。 其動機很簡單；在您的AEM環境中找出並解決僅1個誤用情形，就有可能改善使用者體驗、減少技術債務並進而降低您的總擁有成本(TCO)。 因此，為什麼不花時間看看是否有改善的機會。
+請注意，AEM Best Practices Analyzer不適用於AEMas a Cloud Service環境。
 
-### 演示者
+### 主持人
 
-* Aditi Dutt Chaudhuri，高级产品经理，Adobe
-* Saurabh Saxena，工程经理，Adobe
-* 基兰·穆鲁古拉，高级云架构师，Adobe
-* Vaibhav Varshney，计算机科学家，Adobe
-* Himani Chauhan，计算机科学家，Adobe
+* Aditi Dutt Chaudhuri，Adobe，資深產品經理
+* Saurabh Saxena，Adobe工程經理
+* Adobe資深雲端架構師Kiran Murugulla
+* Vaibhav Varshney，Adobe電腦科學家
+* Himani Chauhan，Adobe電腦科學家
 
-## 网络研讨会记录 — 01/18/2023
+## 網路研討會影片 — 2023/1/18
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413364/)
 
 >[!NOTE]
 >
->* 有关Experience League上特定于会话的社区交互，请访问此 [上下文线程](https://bit.ly/3Z6AyM1)
->* 要接收有关网络研讨会的自动通知，请在 [Adobe的AEM用户组](https://aem-augs.adobe.com/).
+>* 若為Experience League上特定工作階段的社群互動，請造訪此 [內容執行緒](https://bit.ly/3Z6AyM1)
+>* 若要接收有關網路研討會的自動通知，請註冊網址： [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
+

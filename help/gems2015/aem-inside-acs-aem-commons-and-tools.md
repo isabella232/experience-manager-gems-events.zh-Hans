@@ -1,6 +1,6 @@
 ---
-title: 在ACS AEM Commons和Tools中
-description: 在本次会议中，AEM全球宣传员、ACS AEM Commons和ACS AEM Tools的联合项目主管Justin Edelson将提供一些背景资料，介绍这些针对AEM的开源项目所使用的目标和流程，并演示一些关键功能。
+title: ACS AEM Commons和工具內幕
+description: 在這場會議中，ACS AEM Commons和ACS AEM Tools的聯合專案主管，AEM全球宣導者Justin Edelson將提供這些開放原始碼專案用於AEM的目標和流程的一些背景知識，並示範一些關鍵功能。
 uuid: aef962ac-5e21-4582-9da2-cdfa6f5f18ff
 discoiquuid: 3210944a-4a03-495a-b652-3c9e54ecbc22
 targetaudience: target-audience advanced
@@ -12,25 +12,25 @@ ht-degree: 1%
 
 ---
 
-# 在ACS AEM Commons &amp; Tools中{#inside-acs-aem-commons-tools}
+# ACS AEM Commons &amp; Tools內幕{#inside-acs-aem-commons-tools}
 
-在本次会议中，AEM全球宣传员、ACS AEM Commons和ACS AEM Tools的联合项目主管Justin Edelson将提供一些关于这些针对AEM的开源项目所使用的目标和流程的背景资料，并演示一些关键功能，包括：
+在這場會議中，ACS AEM Commons和ACS AEM Tools的聯合專案負責人、AEM全球宣導者Justin Edelson將提供AEM的這些開放原始碼專案所使用的目標和流程的一些背景，並示範一些關鍵功能，包括：
 
-* [!UICONTROL 调度程序刷新规则]
-* [!UICONTROL Sitemap生成器]
-* [!UICONTROL AEM Pitch]
-* [!UICONTROL 通用列表]
+* [!UICONTROL Dispatcher排清規則]
+* [!UICONTROL Sitemap產生器]
+* [!UICONTROL AEM Fiddle]
+* [!UICONTROL 一般清單]
 * [!UICONTROL TypekitCloud Service]
 
 >[!VIDEO](https://video.tv.adobe.com/v/19374/?quality=9)
 
-*2015年8月26日交付*
+*2015年8月26日送達*
 
-**呈列方式：**
+**展示者：**
 
-* Justin Edelson，AEM宣传员，Adobe
+* AdobeAEM宣傳專員Justin Edelson
 
-**演示者幻灯片**
+**簡報者投影片**
 
 [获取文件](assets/08262015-commons-and-tools.pptx)
 <!--

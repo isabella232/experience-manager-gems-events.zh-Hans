@@ -1,31 +1,31 @@
 ---
-title: AEM富文本编辑器(RTE)Deep Dive
-description: 了解有关在AEM中富配置和使用RTE的最佳实践。 我们将介绍在AEM中使用RTE时的不同用例、限制、缺陷、配置工作流程和常见疑难解答步骤。 我们还将介绍其命令插件架构和核心概念，如Html规则、内核和反序列化。
+title: AEM RTF編輯器(RTE)深入探討
+description: 瞭解AEM中豐富設定和RTE使用的最佳實務。 我們將介紹在AEM中使用RTE時的不同使用案例、限制、陷阱、設定工作流程以及常見疑難排解步驟。 我們也會探討其命令外掛程式架構以及Html規則、核心和反序列化等核心概念。
 uuid: c55837d1-5703-44a9-b901-ab2e68d75dcb
 discoiquuid: d4220ddf-360a-4068-9558-b42f29038cc7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+exl-id: 55f9bb36-f1ba-4dfd-8c2d-54e71ad1e9d0
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 1%
 
 ---
 
+# AEM RTF編輯器(RTE)深入探討{#aem-rich-text-editor-rte-deep-dive}
 
-# AEM富文本编辑器(RTE)Deep Dive{#aem-rich-text-editor-rte-deep-dive}
+瞭解AEM中豐富設定和RTE使用的最佳實務。 我們將介紹在AEM中使用RTE時的不同使用案例、限制、陷阱、設定工作流程以及常見疑難排解步驟。 我們也會探討其命令外掛程式架構以及Html規則、核心和反序列化等核心概念。
 
-了解有关在AEM中富配置和使用RTE的最佳实践。 我们将介绍在AEM中使用RTE时的不同用例、限制、缺陷、配置工作流程和常见疑难解答步骤。 我们还将介绍其命令插件架构和核心概念，如Html规则、内核和反序列化。
-
-## AEM富文本编辑器(RTE)Deep Dive
+## AEM RTF編輯器(RTE)深入探討
 
 >[!VIDEO](https://video.tv.adobe.com/v/27087/?quality=9)
 
-*已交付04/17/19*
+*2019年4月17日傳遞*
 
-**呈列方式：**
+**展示者：**
 
-哈尼什·班萨尔，计算机科学家，Adobe
+Adobe電腦科學家Hanish Bansal
 
-演示者幻灯片，日期：04/17/2019
+簡報者投影片，日期： 2019年4月17日
 
 [获取文件](assets/aem-gems-aem-rte-04172019.pdf)

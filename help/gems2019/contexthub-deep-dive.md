@@ -1,33 +1,33 @@
 ---
-title: 深入了解ContextHub中存储、模块和区段的实施详细信息
-description: 此Gems会议旨在通过不同的持久层，更详细地了解不同类型的ContextHub存储的实施详细信息。 自定义模块实施（通过代码和使用基本模块渲染器进行配置），以及如何在单独的ContextHub模式下组织模块。 最后，我们将看到ContextHub区段特征的工作方式、如何实施自定义比较器以及如何以编程方式实例化区段。
+title: 深入探討ContextHub中商店、模組和區段的實作詳細資料
+description: 此Gems工作階段專門用於更仔細檢視使用不同持續性層之不同型別的ContextHub存放區的實作詳細資料。 自訂模組實施（透過使用基本模組轉譯器的程式碼和設定實施），以及如何在單獨的ContextHub模式中組織模組。 最後，我們將瞭解ContextHub區段特徵的運作方式、如何實作自訂比較器，以及如何以程式設計方式例項化區段。
 uuid: 5e8f86e2-269e-4fb8-b899-5be7ef2c977a
 discoiquuid: 77331d10-2e87-4cc8-8557-23e983d98a72
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+exl-id: de02f5b7-271a-4844-8161-e9611b1b064f
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 1%
 
 ---
 
+# 深入探討ContextHub中商店、模組和區段的實作詳細資料{#deep-dive-on-implementation-details-of-stores-modules-and-segments-in-contexthub}
 
-# 深入了解ContextHub中存储、模块和区段的实施详细信息{#deep-dive-on-implementation-details-of-stores-modules-and-segments-in-contexthub}
-
-此Gems会议旨在通过不同的持久层，更详细地了解不同类型的ContextHub存储的实施详细信息。 自定义模块实施（通过代码和使用基本模块渲染器进行配置），以及如何在单独的ContextHub模式下组织模块。 最后，我们将看到ContextHub区段特征的工作方式、如何实施自定义比较器以及如何以编程方式实例化区段。
+此Gems工作階段專門用於更仔細檢視使用不同持續性層之不同型別的ContextHub存放區的實作詳細資料。 自訂模組實施（透過使用基本模組轉譯器的程式碼和設定實施），以及如何在單獨的ContextHub模式中組織模組。 最後，我們將瞭解ContextHub區段特徵的運作方式、如何實作自訂比較器，以及如何以程式設計方式例項化區段。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27010/?quality=9)
 
-*已交付03/20/19*
+*2019年3月20日傳遞*
 
-**呈列方式：** Artur Kudlacz，开发人员，Adobe
+**展示者：** Artur Kudlacz，開發人員，Adobe
 
-演示者幻灯片，日期：03/20/2019
+簡報者投影片，日期： 2019年3月20日
 
 [获取文件](assets/aem-gems-contexthubdeepdive-03202019.pdf)
 
-ContextHub示例包：
+ContextHub範例套件：
 
-Artur中提到的ContextHub示例包可在以下位置获取：
+Artur提及的ContextHub範例套件位於：
 
 [https://github.com/grubyak/aem/tree/master/content-packages/gems/2019-03-20-contexthub-deep-dive](https://github.com/grubyak/aem/tree/master/content-packages/gems/2019-03-20-contexthub-deep-dive)

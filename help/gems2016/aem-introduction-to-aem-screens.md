@@ -1,6 +1,6 @@
 ---
 title: AEM Screens 简介
-description: AEM Screens是集成到Adobe Experience Manager中的新数字标牌解决方案。 在本次AEM Gem会议中，我们将介绍AEM Screens的主要功能，以及如何设置一个包含幻灯片放映和交互式体验的简单项目。 然后，我们将概述如何开发AEM Screens优化的组件以及如何设置离线使用的渠道。 最后，我们将探索AEM Screens REST API，并说明如何集成自定义Cordova插件。
+description: AEM Screens是整合至Adobe Experience Manager的全新數位看板解決方案。 在這場AEM Gems研討會中，我們將介紹AEM Screens的主要功能，以及如何透過投影片放映和互動式體驗來設定簡單的專案。 然後，我們將概述如何開發AEM Screens最佳化元件，以及如何設定離線使用的管道。 最後，我們將探索AEM Screens REST API並說明如何整合自訂Cordova外掛程式。
 uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
@@ -14,26 +14,26 @@ ht-degree: 5%
 
 # AEM Screens 简介{#introduction-to-aem-screens}
 
-AEM Screens是集成到Adobe Experience Manager中的新数字标牌解决方案。 在本次AEM Gem会议中，我们将介绍AEM Screens的主要功能，以及如何设置一个包含幻灯片放映和交互式体验的简单项目。 然后，我们将概述如何开发AEM Screens优化的组件以及如何设置离线使用的渠道。 最后，我们将探索AEM Screens REST API，并说明如何集成自定义Cordova插件。
+AEM Screens是整合至Adobe Experience Manager的全新數位看板解決方案。 在這場AEM Gems研討會中，我們將介紹AEM Screens的主要功能，以及如何透過投影片放映和互動式體驗來設定簡單的專案。 然後，我們將概述如何開發AEM Screens最佳化元件，以及如何設定離線使用的管道。 最後，我們將探索AEM Screens REST API並說明如何整合自訂Cordova外掛程式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19301/?quality=9)
 
-*2016年11月16日交付*
+*2016年11月16日送達*
 
-**呈列方式：**
+**展示者：**
 
-* Julien Ramboz，用户界面开发人员，Adobe
-* Tobias Reiss，计算机科学家，软件开发，Adobe
+* Julien Ramboz，UI開發人員，Adobe
+* Tobias Reiss，電腦科學家，軟體開發，Adobe
 
-**演示者幻灯片**
+**簡報者投影片**
 
 [获取文件](assets/2016-11-16-aem-screens.pdf)
 
-示例项目
+範例專案
 
 [获取文件](assets/aemscreensgems.zip)
 
-## 相关链接 {#related-links}
+## 相關連結 {#related-links}
 
 * [部署Screens](https://docs.adobe.com/docs/en/aem/6-2/deploy/screens.html)
 * [Screens概念](https://docs.adobe.com/docs/en/aem/6-2/administer/screens.html)

@@ -1,6 +1,6 @@
 ---
-title: 在MongoDB上运行AEM
-description: 此AEM Gem将详细介绍如何在生产设置中在MongoDB上运行AEM。 我们将介绍MongoDB部署的选项，强调建议的部署，并解释这些建议的理由。
+title: 在MongoDB上執行AEM
+description: 此AEM Gem將詳細說明如何在生產設定中對MongoDB執行AEM。 我們將介紹MongoDB的部署選項、強調建議的部署，並解釋這些建議的理由。
 uuid: 8ca5b7d0-b71e-481c-961c-c91ee987f374
 discoiquuid: 198f9f6e-4156-468a-88d7-6902f51dd6c1
 targetaudience: target-audience advanced
@@ -12,25 +12,25 @@ ht-degree: 1%
 
 ---
 
-# 在MongoDB上运行AEM{#running-aem-on-mongodb}
+# 在MongoDB上執行AEM{#running-aem-on-mongodb}
 
-此AEM Gem将详细介绍如何在生产设置中在MongoDB上运行AEM。 我们将介绍MongoDB部署的选项，强调建议的部署，并解释这些建议的理由。
+此AEM Gem將詳細說明如何在生產設定中對MongoDB執行AEM。 我們將介紹MongoDB的部署選項、強調建議的部署，並解釋這些建議的理由。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19304/?quality=9)
 
-*2016年3月23日交付*
+*2016年3月23日送達*
 
-**呈列方式：**
+**展示者：**
 
-* Ian Boston，高级软件工程师，Adobe
+* Adobe資深軟體工程師Ian Boston
 
-**演示者幻灯片**
+**簡報者投影片**
 
 [获取文件](assets/aem-gems-032316-onmongodb.pdf)
 
-## 相关链接 {#related-links}
+## 相關連結 {#related-links}
 
-[AEM with MongoDB](https://docs.adobe.com/content/docs/en/aem/6-1/deploy/platform/aem-with-mongodb.html)
+[AEM與MongoDB](https://docs.adobe.com/content/docs/en/aem/6-1/deploy/platform/aem-with-mongodb.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

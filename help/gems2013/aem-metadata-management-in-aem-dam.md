@@ -1,6 +1,6 @@
 ---
-title: AEM DAM中的元数据管理
-description: 了解AEM DAM如何管理资产的元数据。 了解XMP标准以及DAM如何使用它、如何在搜索中使用元数据，以及如何扩展内置元数据架构。 此外，还介绍了最新DAM功能包中引入的新元数据架构编辑器。
+title: AEM DAM中的中繼資料管理
+description: 瞭解AEM DAM如何管理資產的中繼資料。 瞭解XMP標準及DAM如何加以運用、如何在搜尋中使用中繼資料，以及如何擴充內建中繼資料結構。 此外，也會展示最新DAM Feature Pack中推出的新中繼資料結構編輯器。
 uuid: 09bce4bb-8880-41ae-b95c-1f36407191ff
 discoiquuid: 0e2538bc-7a1a-41ce-8fed-64805ca1bb89
 targetaudience: target-audience advanced
@@ -12,23 +12,23 @@ ht-degree: 2%
 
 ---
 
-# AEM DAM中的元数据管理{#metadata-management-in-aem-dam}
+# AEM DAM中的中繼資料管理{#metadata-management-in-aem-dam}
 
-了解AEM DAM如何管理资产的元数据。 了解XMP标准以及DAM如何使用它、如何在搜索中使用元数据，以及如何扩展内置元数据架构。 此外，还介绍了最新DAM功能包中引入的新元数据架构编辑器。
+瞭解AEM DAM如何管理資產的中繼資料。 瞭解XMP標準及DAM如何加以運用、如何在搜尋中使用中繼資料，以及如何擴充內建中繼資料結構。 此外，也會展示最新DAM Feature Pack中推出的新中繼資料結構編輯器。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19524/?quality=9)
 
-*2013年11月20日交付*
+*2013年11月20日送達*
 
-**呈列方式：**
+**展示者：**
 
-Ugo Cei，开发人员技术营销经理，Adobe
+Adobe開發人員技術行銷經理Ugo Cei
 
-**演示者幻灯片**
+**簡報者投影片**
 
 [获取文件](assets/metadata-management-in-aem-dam.pdf)
 
-## 相关链接 {#related-links}
+## 相關連結 {#related-links}
 
 [文档](https://docs.adobe.com/content/docs/en/cq/5-6-1/dam/metadata_for_digitalassetmanagement.html)
 

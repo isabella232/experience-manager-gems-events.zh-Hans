@@ -1,6 +1,6 @@
 ---
-title: AEM 6.1翻译集成和最佳实践
-description: 获取有关AEM中增强的翻译集成功能的演示文稿。 了解管理多语言网站的最佳实践。
+title: AEM 6.1翻譯整合與最佳實務
+description: 取得有關AEM中增強翻譯整合功能的簡報。 瞭解管理多語言網站的最佳實務。
 uuid: 07db1af6-e823-44cb-8502-4b4a135902c9
 discoiquuid: b05a88a0-8a38-432b-99f7-23e3799ad209
 targetaudience: target-audience advanced
@@ -12,20 +12,20 @@ ht-degree: 2%
 
 ---
 
-# AEM 6.1翻译集成和最佳实践{#aem-translation-integration-best-practices}
+# AEM 6.1翻譯整合與最佳實務{#aem-translation-integration-best-practices}
 
-Cristine和Mathias将在AEM中提供增强的翻译集成功能，以及管理多语言网站的最佳实践。 您将学习如何：在AEM中使用语言副本/ Live Copy/ MSM构建全局网站如何集成翻译服务提供程序以成功完成翻译项目
+Cristine和Mathias將提供AEM中增強的翻譯整合功能，以及管理多語言網站的最佳實務。 您將瞭解如何：在AEM中建構全球網站使用語言副本/即時副本/ MSM如何整合翻譯服務提供者，以成功完成翻譯專案
 
 >[!VIDEO](https://video.tv.adobe.com/v/19371/?quality=9)
 
 *2015年9月30日交付*
 
-**呈列方式：**
+**展示者：**
 
-* Christine Duran，高级翻译技术经理，Adobe
-* Mathias Siegel，高级产品经理，Adobe
+* Adobe翻譯技術高級經理Christine Duran
+* Mathias Siegel，Adobe高級產品經理
 
-**演示者幻灯片**
+**簡報者投影片**
 
 [获取文件](assets/09302015-aem-gems-translation-integration-and-best-practices.pdf)
 

@@ -1,6 +1,6 @@
 ---
-title: Dispatcher — 新增功能和最佳实践
-description: 此会话将探讨Dispatcher中的新增功能（自版本4.1.9起），并了解部署Dispatcher时的一些最佳实践。
+title: Dispatcher — 新功能和最佳實務
+description: 此會議將探索Dispatcher中的新功能（自4.1.9版開始），並瞭解部署Dispatcher時的一些最佳實務。
 uuid: df8dc6ec-3785-4204-b0b9-e656a1a4db94
 discoiquuid: 732207fa-d0f6-4bc8-8cda-f25703e4b061
 targetaudience: target-audience advanced
@@ -12,29 +12,29 @@ ht-degree: 3%
 
 ---
 
-# Dispatcher — 新增功能和最佳实践{#dispatcher-new-features-and-best-practices}
+# Dispatcher — 新功能和最佳實務{#dispatcher-new-features-and-best-practices}
 
-本课程探讨Dispatcher中的新增功能（自版本4.1.9以来），并了解部署Dispatcher时的一些最佳实践。
+本會議探索Dispatcher中的新功能（自4.1.9版），並瞭解部署Dispatcher時的一些最佳實務。
 
 >[!VIDEO](https://video.tv.adobe.com/v/20842/?quality=9)
 
-*2017年11月22日交付*
+*2017年11月22日傳遞*
 
-**呈列方式：**
+**展示者：**
 
-Dominique Pfister，高级计算机科学家，Adobe
+Adobe資深電腦科學家Dominique Pfister
 
-**演示者幻灯片**
+**簡報者投影片**
 
 [获取文件](assets/dispatcher-aemgemsnov2017.pdf)
 
 ## 资源 {#resources}
 
-[有关调度程序缓存的更多信息](https://github.com/cqsupport/webinar-dispatchercache)
+[Dispatcher快取的詳細資訊](https://github.com/cqsupport/webinar-dispatchercache)
 
-[滥用JSONP与RosettaFlash](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
+[使用RosettaFlash濫用JSONP](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
 
-[更多信息](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)
+[更多資訊](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

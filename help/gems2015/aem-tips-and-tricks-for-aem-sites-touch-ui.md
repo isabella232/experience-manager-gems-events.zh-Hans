@@ -1,6 +1,6 @@
 ---
-title: AEM Sites触屏UI的提示和技巧
-description: 了解有关 [!DNL AEM Sites] 触屏UI。 了解触屏UI的功能，您可能知道也可能不知道这些功能可让您完成更多任务，并更快地完成这些任务。 无论您是内容策略师还是内容营销人员，您都会发现触屏UI中一些隐藏的功能，这些功能将提高您的效率和工作效率。
+title: AEM Sites觸控式UI的秘訣與技巧
+description: 瞭解以下方面最酷的秘訣和技巧 [!DNL AEM Sites] 觸控式UI。 探索您不一定瞭解的觸控式UI功能，協助您完成更多工作，並加快完成速度。 無論您是內容策略師或內容行銷人員，您都會發現觸控式UI中某些隱藏的寶藏，讓您更有效率、更富生產力。
 uuid: 2d11ca50-d3cf-43e3-8256-358d72d03a44
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
@@ -12,25 +12,25 @@ ht-degree: 0%
 
 ---
 
-# 的提示和技巧 [!DNL AEM Sites] 触屏UI{#tips-and-tricks-for-aem-sites-touch-ui}
+# 的提示與秘訣 [!DNL AEM Sites] 觸控式UI{#tips-and-tricks-for-aem-sites-touch-ui}
 
-了解有关 [!DNL AEM Sites] 触屏UI。 了解触屏UI的功能，您可能知道也可能不知道这些功能可让您完成更多任务，并更快地完成这些任务。 无论您是内容策略师还是内容营销人员，您都会发现触屏UI中一些隐藏的功能，这些功能将提高您的效率和工作效率。
+瞭解以下方面最酷的秘訣和技巧 [!DNL AEM Sites] 觸控式UI。 探索您不一定瞭解的觸控式UI功能，協助您完成更多工作，並加快完成速度。 無論您是內容策略師或內容行銷人員，您都會發現觸控式UI中某些隱藏的寶藏，讓您更有效率、更富生產力。
 
-在本GEM中，了解如何：
+在本GEM中，瞭解如何：
 
-* 高效导航和查找内容
-* 组织内容并与之协作
-* 概要了解当前的情况
-* 创作内容
+* 有效率地導覽及尋找內容
+* 組織內容並在上面共同作業
+* 大致瞭解目前的情況
+* 作者內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/19377/?quality=9)
 
-*2015年6月3日交付*
+*傳送日期： 2015年6月3日*
 
-**呈列方式：**
+**展示者：**
 
-* Gabriel Walt，产品经理，Adobe
-* Gilles Knobloch，工程经理，Adobe
+* Adobe產品經理Gabriel Walt
+* Gilles Knobloch，Adobe工程經理
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
