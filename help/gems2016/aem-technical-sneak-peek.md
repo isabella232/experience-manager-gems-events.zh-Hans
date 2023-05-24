@@ -1,6 +1,6 @@
 ---
-title: 技術偷看
-description: 與Gabriel Walt和Justin Edelson一起進行技術演講，瞭解我們為下一代Adobe Experience Manager所做的工作。
+title: 技术偷看
+description: 与Gabriel Walt和Justin Edelson一起观看我们为下一代Adobe Experience Manager所做的技术演讲。
 uuid: 4cb22075-1f96-45fb-b9c3-41d8516b4c87
 discoiquuid: 15ac160d-b272-4725-ba6f-217b1ee70d4d
 targetaudience: target-audience advanced
@@ -12,20 +12,20 @@ ht-degree: 2%
 
 ---
 
-# 技術偷看{#technical-sneak-peek}
+# 技术偷看{#technical-sneak-peek}
 
-與Gabriel Walt和Justin Edelson一起進行技術演講，瞭解我們為下一代Adobe Experience Manager所做的工作。
+与Gabriel Walt和Justin Edelson一起观看我们为下一代Adobe Experience Manager所做的技术演讲。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19305/?quality=9)
 
-*2016年4月13日提供*
+*交付日期： 2016年4月13日*
 
-**展示者：**
+**呈列方式：**
 
-* Adobe產品經理Gabriel Walt
-* Justin Edelson，Adobe體驗架構師和宣傳專員
+* Gabriel Walt，Adobe产品经理
+* Justin Edelson，AdobeExperience Architect和宣传专员
 
-**簡報者投影片**
+**演示者幻灯片**
 
 [获取文件](assets/aem-gems-041316-6-2-tech-preview.pdf)
 <!--

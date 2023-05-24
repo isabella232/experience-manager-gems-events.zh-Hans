@@ -1,6 +1,6 @@
 ---
-title: AEM啟動 — 同時準備多個版本的網站(AEM 5.6)
-description: 瞭解如何使用AEM Launches在同一個網站的多個版本上同時運作，以及同步它們之間的變更。 探索AEM Launches如何整合至AEM，並瞭解其基本機制。
+title: AEM启动次数 — 同时准备多个版本的网站(AEM 5.6)
+description: 了解如何使用AEM启动项在同一个站点的多个版本上并行工作，并在它们之间同步更改。 了解AEM Launches如何集成在AEM中，并了解其基本机制。
 uuid: ebff46e5-e580-4a42-bb8a-55ea0fa13d9e
 discoiquuid: a18d345a-fbb4-4ace-b569-96fd95503a39
 targetaudience: target-audience advanced
@@ -12,23 +12,23 @@ ht-degree: 2%
 
 ---
 
-# AEM啟動：同時準備多個版本的網站(AEM 5.6) {#launches-concurrent-preparation-of-multiple-versions-of-a-website-aem}
+# AEM启动次数：同时准备多个版本的网站(AEM 5.6) {#launches-concurrent-preparation-of-multiple-versions-of-a-website-aem}
 
-Adobe Experience Manager提供的功能可輕鬆地在網站和行動網站上建立和發佈數位內容。 但內容建立者可能想要在同一個網站的多個版本上同時工作，並在它們之間同步變更。 使用AEM啟動即可達成此目的。 在這場會議中，您將瞭解此功能如何整合到AEM中，並瞭解其基本機制。
+Adobe Experience Manager提供了各种功能，可轻松地在网站和移动网站上创建和发布数字内容。 但内容创建者可能希望同时处理同一站点的多个版本，并在这些版本之间同步更改。 可使用AEM启动项实现此目标。 在此会议中，您将了解该功能是如何在AEM中集成的，并了解其基本机制。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19579/?quality=9)
 
-*傳送日期： 2013年6月12日*
+*2013年6月12日交付*
 
-**展示者：**
+**呈列方式：**
 
-Gilles Knobloch，Adobe首席開發人員
+Gilles Nonbloch，Adobe首席开发人员
 
-**簡報者投影片**
+**演示者幻灯片**
 
 [获取文件](assets/2013-06-12-launches-cqgems.pdf)
 
-## 相關連結 {#related-links}
+## 相关链接 {#related-links}
 
 [文档](http://docs.adobe.com/docs/en/cq/current/wcm/launches.html)
 

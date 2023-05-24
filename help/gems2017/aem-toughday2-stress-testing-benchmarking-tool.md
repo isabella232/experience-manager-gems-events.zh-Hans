@@ -1,6 +1,6 @@
 ---
-title: Toughday2 — 全新改良的壓力測試和基準測試工具
-description: 「艱難日」是一種測試工具，可在所有作業同時進行的情況下，模擬最糟糕情況下的每日負載。 我們收集了使用者多年來的意見反應，並決定改寫以符合需求。
+title: Toughday2 — 经过改进的新式压力测试和基准设定工具
+description: “Tough Day”是一种测试工具，可在所有操作同时进行的情况下模拟最坏情况下的每日负载。 多年来，我们收集了用户提供的反馈，并决定对其进行改写以满足需求。
 uuid: 6bf40482-6152-421b-bdfe-9a50176b98b7
 discoiquuid: d60dbb18-7938-4446-9928-7f5f5d1f83a1
 targetaudience: target-audience advanced
@@ -12,20 +12,20 @@ ht-degree: 1%
 
 ---
 
-# Toughday2 — 全新改良的壓力測試和基準測試工具{#toughday-a-new-and-improved-stress-testing-and-benchmarking-tool}
+# Toughday2 — 经过改进的新式压力测试和基准设定工具{#toughday-a-new-and-improved-stress-testing-and-benchmarking-tool}
 
-「艱難日」是一種測試工具，可在所有作業同時進行的情況下，模擬最糟糕情況下的每日負載。 我們收集了使用者多年來的意見反應，並決定改寫以符合需求。 出於您自己的目的，Toughday2將在工作階段結束後公開發佈。 請加入我們，在即時示範中檢視結果，並討論變更。
+“Tough Day”是一种测试工具，可在所有操作同时进行的情况下模拟最坏情况下的每日负载。 多年来，我们收集了用户提供的反馈，并决定对其进行改写以满足需求。 出于您自己的目的，Toughday2将在会话后公开发布。 请加入我们，在实时演示中查看结果并讨论更改。
 
 >[!VIDEO](https://video.tv.adobe.com/v/18935/?quality=9)
 
-*傳送日期： 2017年6月21日*
+*交付日期：2017年6月21日*
 
-**展示者：**
+**呈列方式：**
 
-* Catalin Luta，QE開發人員，Adobe
-* Andrei Stefan Tuicu，QE開發人員，Adobe
+* Catalin Luta，QE开发人员，Adobe
+* Andrei Stefan Tuicu，QE开发人员，Adobe
 
-**簡報者投影片**
+**演示者幻灯片**
 
 [获取文件](assets/aem-gems-toughday2.pdf)
 <!--

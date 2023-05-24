@@ -1,6 +1,6 @@
 ---
 title: Oak Lucene索引
-description: 我們說明Oak Lucene索引的功能，以及如何使用它們讓您的查詢執行得更好。 在第二部分中，我們將討論非同步索引的一般運作方式以及如何對其進行監視。
+description: 我们介绍Oak Lucene索引的功能以及如何使用它们来提高查询性能。 在第二部分中，我们将讨论异步索引的一般工作方式以及如何对其进行监控。
 uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
@@ -14,26 +14,26 @@ ht-degree: 7%
 
 # Oak Lucene索引{#oak-lucene-indexes}
 
-我們說明Oak Lucene索引的功能，以及如何使用它們讓您的查詢執行得更好。 在第二部分中，我們將討論非同步索引的一般運作方式以及如何對其進行監視。
+我们介绍Oak Lucene索引的功能以及如何使用它们来提高查询性能。 在第二部分中，我们将讨论异步索引的一般工作方式以及如何对其进行监控。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19303/?quality=9)
 
-*2016年1月20日傳遞*
+*交付日期： 2016年1月20日*
 
-**展示者：**
+**呈列方式：**
 
-* Chetan Mehrotra，Adobe資深電腦科學家
-* Alex Parvulescu，Adobe資深開發人員
+* Chetan Mehrotra，Adobe高级计算机科学家
+* Alex Parvulescu，Adobe高级开发人员
 
-**簡報者投影片**
+**演示者幻灯片**
 
 [获取文件](assets/aem-gems-012016-oak-lucene-indexes-async-local.pdf)
 
-**工作階段問答**
+**会话问题与解答**
 
 [获取文件](assets/q-a-1-20-16-gem-session-oak-lucene-indexes.pdf)
 
-## 相關連結 {#related-links}
+## 相关链接 {#related-links}
 
-* [Oak查詢和索引](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
-* [Oak檔案： Lucene索引](https://jackrabbit.apache.org/oak/docs/query/lucene.html)
+* [Oak查询和索引](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
+* [Oak文档： Lucene索引](https://jackrabbit.apache.org/oak/docs/query/lucene.html)
