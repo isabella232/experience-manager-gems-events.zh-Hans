@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-06-22T00:00:00Z
 jira: KT-13542
 thumbnail: KT-13542.jpeg
-source-git-commit: 1f975085f0d25c98fad62e7cc5635216b26ae1d2
+source-git-commit: 1143058f0cb213a765b8cbdab1779fe79b7a4335
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 主控于Experience Manager认证：准备就绪、准备就绪、获得认证！
 
-本次网络研讨会将于2023年6月28日（太平洋标准时间上午8点）举行。 请通过此进行注册 [事件页面链接](https://adobe.ly/3Ni6XeL).
+本网络研讨会将于 **6月28**，2023 （上午8:00 PST）。 请通过此进行注册 [事件页面链接](https://adobe.ly/3Ni6XeL).
 
 ## 会话描述
 
